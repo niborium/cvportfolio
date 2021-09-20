@@ -1,2 +1,3 @@
 Robin Karlsson (Portfolio och CV)
-https://niborium.github.io/cvportfolio/
+Domain: https://robinkarlsson.se/
+Hosting: Github Pages
