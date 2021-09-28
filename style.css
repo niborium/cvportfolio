@@ -68,6 +68,11 @@ p{
   flex: 0 0 350px;
 }
 
+.githubrepo
+{
+   font-size: 150%;
+}
+
   @media only screen and (max-width: 600px) {
     img {
     width: 40%;
