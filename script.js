@@ -31,7 +31,7 @@ fetch('https://api.github.com/users/niborium/repos')
              
             var githubrepos = document.getElementById('githubrepos')
             for (i=0; i<data.length; i++){
-              githubrepos.insertAdjacentHTML("beforeend", "<a href='"+ data[i].html_url +"' target='_blank' style='text-decoration:none;''><div class='githubrepo'>" + data[i].name + " {Språk: " + data[i].language + "}" + "</div></a>");
+              githubrepos.insertAdjacentHTML("beforeend", "<a href='"+ data[i].html_url +"' target='_blank' style='text-decoration:none;''><div class='githubrepo'>" + data[i].name + "<br> {Beskrivning: " + data[i].description + "}" + "</div></a><br><br>");
             }
 
            });
