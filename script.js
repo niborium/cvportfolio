@@ -26,9 +26,7 @@ fetch('https://api.github.com/users/niborium/repos')
            }
  
            // Examine the text in the response
-           response.json().then(function(data) {
-             console.log(data);
-             
+           response.json().then(function(data) {        
             var githubrepos = document.getElementById('githubrepos')
             for (i=0; i<data.length; i++){
               githubrepos.insertAdjacentHTML("beforeend", "<a href='"+ data[i].html_url +"' target='_blank' style='text-decoration:none;''><div class='githubrepo'><b>" + data[i].name + "</b><br> {Beskrivning: " + data[i].description + "}" + "</div></a><br><br>");
