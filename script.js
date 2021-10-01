@@ -24,8 +24,6 @@ fetch('https://api.github.com/users/niborium/repos')
                response.status);
              return;
            }
- 
-           // Examine the text in the response
            response.json().then(function(data) {        
             var githubrepos = document.getElementById('githubrepos')
             for (i=0; i<data.length; i++){
