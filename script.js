@@ -36,29 +36,3 @@ fetch('https://api.github.com/users/niborium/repos')
 .catch(function(err) {
   console.log('Fetch Error :-S', err);
 });
-
-
-mybutton = document.getElementById("myBtn");
-
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 150 || document.documentElement.scrollTop > 150) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
-
-function HideSections() {
-  document.getElementsByClassName('content')[0].style.display = 'none';
-  document.getElementsByClassName('minimera')[0].style.backgroundColor = '#777';
-  document.getElementsByClassName('content')[1].style.display = 'none';
-  document.getElementsByClassName('minimera')[1].style.backgroundColor = '#777';
-  document.getElementsByClassName('content')[2].style.display = 'none';
-  document.getElementsByClassName('minimera')[2].style.backgroundColor = '#777';
-  document.getElementsByClassName('content')[3].style.display = 'none';
-  document.getElementsByClassName('minimera')[3].style.backgroundColor = '#777';
-  document.getElementsByClassName('content')[4].style.display = 'none';
-  document.getElementsByClassName('minimera')[4].style.backgroundColor = '#777';
-}
