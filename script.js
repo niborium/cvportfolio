@@ -37,10 +37,10 @@ fetch('https://api.github.com/users/niborium/repos')
   console.log('Fetch Error :-S', err);
 });
 
-function aboutstart(){
-var myElement = document.getElementById('aboutstart');
+function Ommigstart(){
+var myElement = document.getElementById('Ommigstart');
 var topPos = myElement.offsetTop;
-document.getElementById('aboutstart').scrollTop = topPos;
+document.getElementById('Ommigstart').scrollTop = topPos;
 }
 function Arblfstart(){
 var myElement = document.getElementById('Arblfstart');
