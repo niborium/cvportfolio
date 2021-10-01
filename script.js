@@ -36,3 +36,20 @@ fetch('https://api.github.com/users/niborium/repos')
 .catch(function(err) {
   console.log('Fetch Error :-S', err);
 });
+
+
+mybutton = document.getElementById("myBtn");
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 150 || document.documentElement.scrollTop > 150) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+function HideSections() {
+  document.getElementsByClassName('content')[0].style.display = 'none';
+}
