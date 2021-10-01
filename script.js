@@ -52,4 +52,8 @@ function scrollFunction() {
 
 function HideSections() {
   document.getElementsByClassName('content')[0].style.display = 'none';
+  document.getElementsByClassName('content')[1].style.display = 'none';
+  document.getElementsByClassName('content')[2].style.display = 'none';
+  document.getElementsByClassName('content')[3].style.display = 'none';
+  document.getElementsByClassName('content')[4].style.display = 'none';
 }
