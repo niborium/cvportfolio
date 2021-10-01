@@ -36,3 +36,29 @@ fetch('https://api.github.com/users/niborium/repos')
 .catch(function(err) {
   console.log('Fetch Error :-S', err);
 });
+
+function aboutstart(){
+var myElement = document.getElementById('aboutstart');
+var topPos = myElement.offsetTop;
+document.getElementById('aboutstart').scrollTop = topPos;
+}
+function Arblfstart(){
+var myElement = document.getElementById('Arblfstart');
+var topPos = myElement.offsetTop;
+document.getElementById('Arblfstart').scrollTop = topPos;
+}
+function Utbstart(){
+var myElement = document.getElementById('Utbstart');
+var topPos = myElement.offsetTop;
+document.getElementById('Utbstart').scrollTop = topPos;
+}
+function CoKstart(){
+  var myElement = document.getElementById('CoKstart');
+var topPos = myElement.offsetTop;
+document.getElementById('CoKstart').scrollTop = topPos;
+}
+function Portstart(){
+var myElement = document.getElementById('Portstart');
+var topPos = myElement.offsetTop;
+document.getElementById('Portstart').scrollTop = topPos;
+}
