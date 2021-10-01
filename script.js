@@ -52,8 +52,13 @@ function scrollFunction() {
 
 function HideSections() {
   document.getElementsByClassName('content')[0].style.display = 'none';
+  document.getElementsByClassName('minimera')[0].style.backgroundColor = '#777';
   document.getElementsByClassName('content')[1].style.display = 'none';
+  document.getElementsByClassName('minimera')[1].style.backgroundColor = '#777';
   document.getElementsByClassName('content')[2].style.display = 'none';
+  document.getElementsByClassName('minimera')[2].style.backgroundColor = '#777';
   document.getElementsByClassName('content')[3].style.display = 'none';
+  document.getElementsByClassName('minimera')[3].style.backgroundColor = '#777';
   document.getElementsByClassName('content')[4].style.display = 'none';
+  document.getElementsByClassName('minimera')[4].style.backgroundColor = '#777';
 }
