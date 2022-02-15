@@ -14,8 +14,8 @@ for (i = 0; i < coll.length; i++) {
 }
 
 //Skriv ut ålder till "Om mig" per automatik.
-const getAge = birthDate => Math.floor((new Date() - new Date(birthDate).getTime()) / 3.15576e+10)
-const myAge = getAge('1990-08-19')
+const getAge = birthDate => Math.floor((new Date() - new Date(birthDate).getTime()) / 3.15576e+10);
+const myAge = getAge('1990-08-19');
 const ageElement = document.getElementById("age");
 ageElement.innerHTML = myAge + " år";
 
