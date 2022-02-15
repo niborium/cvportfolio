@@ -4,6 +4,11 @@
   font-family: "Open Sans", sans-serif;
 }
 
+#age {
+font-size: 100% !important;
+margin: 5px !important;
+}
+
 img {
   border-radius: 30%;
   display: block;
