@@ -1,5 +1,13 @@
 import * as renderInfo from './renderInfo.js';
 
+//Sektions divar
+const ommigstartDiv = document.getElementById("Ommigstart")
+const arblfstartDiv = document.getElementById("Arblfstart")
+const utbstartDiv = document.getElementById("Utbstart");
+const coustartDiv = document.getElementById("Coustart");
+const portstartDiv = document.getElementById("Portstart");
+
+//Knappar
 const ommigBtn = document.getElementById('ommigBtn');
 const arblfBtn = document.getElementById('arblfBtn');
 const utbBtn = document.getElementById('utbBtn');
@@ -48,29 +56,24 @@ portBtn.addEventListener("click", () => {
 
 //scrollTop fix för sektionerna.
 function Ommigstart() {
-  var myElement = document.getElementById("Ommigstart");
-  var topPos = myElement.offsetTop;
-  myElement.scrollTop = topPos;
+  var topPos = ommigstartDiv.offsetTop;
+  ommigstartDiv.scrollTop = topPos;
 }
 function Arblfstart() {
-  var myElement = document.getElementById("Arblfstart");
-  var topPos = myElement.offsetTop;
-  myElement.scrollTop = topPos;
+  var topPos = arblfstartDiv.offsetTop;
+  arblfstartDiv.scrollTop = topPos;
 }
 function Utbstart() {
-  var myElement = document.getElementById("Utbstart");
-  var topPos = myElement.offsetTop;
-  myElement.scrollTop = topPos;
+  var topPos = utbstartDiv.offsetTop;
+  utbstartDiv.scrollTop = topPos;
 }
 function Coustart() {
-  var myElement = document.getElementById("Coustart");
-  var topPos = myElement.offsetTop;
-  myElement.scrollTop = topPos;
+  var topPos = coustartDiv.offsetTop;
+  coustartDiv.scrollTop = topPos;
 }
 function Portstart() {
-  var myElement = document.getElementById("Portstart");
-  var topPos = myElement.offsetTop;
-  myElement.scrollTop = topPos;
+  var topPos = portstartDiv.offsetTop;
+  portstartDiv.scrollTop = topPos;
 }
 
 //Skriv ut ålder till "Om mig" per automatik.
