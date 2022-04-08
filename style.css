@@ -111,11 +111,11 @@ p {
   flex: 0 0 550px;
   font-size: 120%;
 }
-.flex-CoK {
+.flex-Cou {
   display: flex;
   justify-content: center;
 }
-.flex-CoK > div {
+.flex-Cou > div {
   background-color: #f1f1f1;
   margin: 10px;
   padding: 20px;
@@ -167,10 +167,10 @@ p {
   .flex-Utb > div {
     flex: 0 0 350px;
   }
-  .flex-CoK {
+  .flex-Cou {
     flex-direction: column;
   }
-  .flex-CoK > div {
+  .flex-Cou > div {
     flex: 0 0 0px !important;
   }
   .flex-Port > div {

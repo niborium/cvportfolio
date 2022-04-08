@@ -1,3 +1,12 @@
+import * as renderInfo from './renderInfo.js';
+
+const ommigBtn = document.getElementById('ommigBtn');
+const arblfBtn = document.getElementById('arblfBtn');
+const utbBtn = document.getElementById('utbBtn');
+const couBtn = document.getElementById('couBtn');
+const portBtn = document.getElementById('portBtn');
+
+//Toggla sektionerna på startsidan
 var coll = document.getElementsByClassName("minimera");
 var i;
 
@@ -13,14 +22,67 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 
+//Click event för sektionerna (knapparna) + fixa scrollTop.
+ommigBtn.addEventListener("click", () => {
+  renderInfo.Ommig();
+  calcmyAge();
+  Ommigstart();
+});
+arblfBtn.addEventListener("click", () => {
+  renderInfo.Arbetslivserfarenhet();
+  Arblfstart();
+});
+utbBtn.addEventListener("click", () => {
+  renderInfo.Utbildning();
+  Utbstart();
+});
+couBtn.addEventListener("click", () => {
+  renderInfo.Cou();
+  Coustart();
+});
+portBtn.addEventListener("click", () => {
+  renderInfo.Pok();
+  getgithubRepos();
+  Portstart();
+})
+
+//scrollTop fix för sektionerna.
+function Ommigstart() {
+  var myElement = document.getElementById("Ommigstart");
+  var topPos = myElement.offsetTop;
+  myElement.scrollTop = topPos;
+}
+function Arblfstart() {
+  var myElement = document.getElementById("Arblfstart");
+  var topPos = myElement.offsetTop;
+  myElement.scrollTop = topPos;
+}
+function Utbstart() {
+  var myElement = document.getElementById("Utbstart");
+  var topPos = myElement.offsetTop;
+  myElement.scrollTop = topPos;
+}
+function Coustart() {
+  var myElement = document.getElementById("Coustart");
+  var topPos = myElement.offsetTop;
+  myElement.scrollTop = topPos;
+}
+function Portstart() {
+  var myElement = document.getElementById("Portstart");
+  var topPos = myElement.offsetTop;
+  myElement.scrollTop = topPos;
+}
+
 //Skriv ut ålder till "Om mig" per automatik.
+function calcmyAge(){
 const getAge = birthDate => Math.floor((new Date() - new Date(birthDate).getTime()) / 3.15576e+10);
 const myAge = getAge('1990-08-19');
 const ageElement = document.getElementById("age");
 ageElement.innerHTML = myAge + " år";
+}
 
 //Läsa in repos via Github API
-
+function getgithubRepos(){
 fetch("https://api.github.com/users/niborium/repos")
   .then(function (response) {
     if (response.status !== 200) {
@@ -47,29 +109,4 @@ fetch("https://api.github.com/users/niborium/repos")
   .catch(function (err) {
     console.log("Fetch Error :-S", err);
   });
-
-function Ommigstart() {
-  var myElement = document.getElementById("Ommigstart");
-  var topPos = myElement.offsetTop;
-  document.getElementById("Ommigstart").scrollTop = topPos;
-}
-function Arblfstart() {
-  var myElement = document.getElementById("Arblfstart");
-  var topPos = myElement.offsetTop;
-  document.getElementById("Arblfstart").scrollTop = topPos;
-}
-function Utbstart() {
-  var myElement = document.getElementById("Utbstart");
-  var topPos = myElement.offsetTop;
-  document.getElementById("Utbstart").scrollTop = topPos;
-}
-function CoKstart() {
-  var myElement = document.getElementById("CoKstart");
-  var topPos = myElement.offsetTop;
-  document.getElementById("CoKstart").scrollTop = topPos;
-}
-function Portstart() {
-  var myElement = document.getElementById("Portstart");
-  var topPos = myElement.offsetTop;
-  document.getElementById("Portstart").scrollTop = topPos;
 }
