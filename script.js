@@ -34,46 +34,30 @@ for (i = 0; i < coll.length; i++) {
 ommigBtn.addEventListener("click", () => {
   renderInfo.Ommig();
   calcmyAge();
-  Ommigstart();
+  scrolltopFix(ommigstartDiv);
 });
 arblfBtn.addEventListener("click", () => {
   renderInfo.Arbetslivserfarenhet();
-  Arblfstart();
+  scrolltopFix(arblfstartDiv);
 });
 utbBtn.addEventListener("click", () => {
   renderInfo.Utbildning();
-  Utbstart();
+  scrolltopFix(utbstartDiv);
 });
 couBtn.addEventListener("click", () => {
   renderInfo.Cou();
-  Coustart();
+  scrolltopFix(coustartDiv);
 });
 portBtn.addEventListener("click", () => {
   renderInfo.Pok();
   getgithubRepos();
-  Portstart();
+  scrolltopFix(portstartDiv);
 })
 
-//scrollTop fix för sektionerna.
-function Ommigstart() {
-  var topPos = ommigstartDiv.offsetTop;
-  ommigstartDiv.scrollTop = topPos;
-}
-function Arblfstart() {
-  var topPos = arblfstartDiv.offsetTop;
-  arblfstartDiv.scrollTop = topPos;
-}
-function Utbstart() {
-  var topPos = utbstartDiv.offsetTop;
-  utbstartDiv.scrollTop = topPos;
-}
-function Coustart() {
-  var topPos = coustartDiv.offsetTop;
-  coustartDiv.scrollTop = topPos;
-}
-function Portstart() {
-  var topPos = portstartDiv.offsetTop;
-  portstartDiv.scrollTop = topPos;
+//Scroll top-fix function
+function scrolltopFix(div) {
+  var topPos = div.offsetTop;
+  div.scrollTop = topPos;
 }
 
 //Skriv ut ålder till "Om mig" per automatik.
