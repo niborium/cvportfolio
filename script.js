@@ -14,6 +14,11 @@ const utbBtn = document.getElementById('utbBtn');
 const couBtn = document.getElementById('couBtn');
 const portBtn = document.getElementById('portBtn');
 
+//Läsa in Info-sektionen onload
+window.onload = function(){  
+  renderInfo.Intro();
+};
+
 //Toggla sektionerna på startsidan
 var coll = document.getElementsByClassName("minimera");
 var i;

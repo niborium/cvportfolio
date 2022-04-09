@@ -1,8 +1,32 @@
+const IntroContent = document.getElementById("Intro");
 const OmmigContent = document.getElementById("Ommigstart");
 const ArbetslivserfarenhetContent = document.getElementById("Arblfstart");
 const UtbildningContent = document.getElementById("Utbstart");
 const CouContent = document.getElementById("Coustart");
 const PokContent = document.getElementById("Portstart");
+
+function Intro(){
+    IntroContent.innerHTML = `
+    <img src="resources/rk.jpg">
+    <h2>ROBIN KARLSSON</h2>
+    <p>Webbutvecklare .NET</p>
+    </div><br>
+    <div class="inline-block">
+    <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
+    <img src="resources/linkedin.png" style="width:42px;height:42px;">
+    </a>
+    </div>
+    <div class="inline-block">
+    <a href="https://github.com/niborium" target=“_blank”>
+    <img src="resources/github.png" style="width:42px;height:42px;">
+    </a>
+    </div>
+    <div class="inline-block">
+    <a href="mailto:robink90@gmail.com" target=“_blank”>
+    <img src="resources/mail.png" style="width:42px;height:42px;">
+    </a>
+    `;
+}
 
 function Ommig(){
     OmmigContent.innerHTML = `
@@ -245,4 +269,4 @@ function Pok(){
     </p>
 `;
 }
-export {Ommig, Arbetslivserfarenhet, Utbildning, Cou, Pok};
+export {Intro, Ommig, Arbetslivserfarenhet, Utbildning, Cou, Pok};
