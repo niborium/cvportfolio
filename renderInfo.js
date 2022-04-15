@@ -236,7 +236,7 @@ function Pok(){
             WebRTC & RTMP<br>
             Webpack<br>
             Babel<br>
-            ParcelJS<br>
+            ParcelJS / parcel-bundler<br>
         </div>   
     </div>    
     <div class="flex-Port">
