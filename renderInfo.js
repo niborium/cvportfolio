@@ -9,7 +9,7 @@ function Intro(){
     IntroContent.innerHTML = `
     <img src="resources/rk.jpg">
     <h2>ROBIN KARLSSON</h2>
-    <p>Webbutvecklare .NET</p>
+    <p>Webbutvecklare .NET <br>& Botutveckling (Selenium)</p>
     </div><br>
     <div class="inline-block">
     <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
@@ -237,6 +237,7 @@ function Pok(){
             Webpack<br>
             Babel<br>
             ParcelJS / parcel-bundler<br>
+            Selenium WebDriver<br>
         </div>   
     </div>    
     <div class="flex-Port">
