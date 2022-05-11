@@ -1,12 +1,12 @@
-const IntroContent = document.getElementById("Intro");
-const OmmigContent = document.getElementById("Ommigstart");
-const ArbetslivserfarenhetContent = document.getElementById("Arblfstart");
-const UtbildningContent = document.getElementById("Utbstart");
-const CouContent = document.getElementById("Coustart");
-const PokContent = document.getElementById("Portstart");
+const IntroContent = document.getElementById('Intro');
+const OmmigContent = document.getElementById('Ommigstart');
+const ArbetslivserfarenhetContent = document.getElementById('Arblfstart');
+const UtbildningContent = document.getElementById('Utbstart');
+const CouContent = document.getElementById('Coustart');
+const PokContent = document.getElementById('Portstart');
 
-function Intro(){
-    IntroContent.innerHTML = `
+function Intro() {
+  IntroContent.innerHTML = `
     <img src="resources/rk.jpg">
     <h2>ROBIN KARLSSON</h2>
     <p>Webbutvecklare .NET <br>& Botutveckling (Selenium)</p>
@@ -28,8 +28,8 @@ function Intro(){
     `;
 }
 
-function Ommig(){
-    OmmigContent.innerHTML = `
+function Ommig() {
+  OmmigContent.innerHTML = `
     <p>
     <div class="flex-about">
         <div><b><u>Namn</u><br> </b>Robin Karlsson<br></div>
@@ -50,8 +50,8 @@ function Ommig(){
     </p>
     `;
 }
-function Arbetslivserfarenhet(){
-    ArbetslivserfarenhetContent.innerHTML = `
+function Arbetslivserfarenhet() {
+  ArbetslivserfarenhetContent.innerHTML = `
     <div class="flex-Arblf">
         <div>
             <u><b>Försvarsmakten (Systemanalytiker)</b><br> Januari 2020-nu (Nuvarande)<br></u>
@@ -125,8 +125,8 @@ function Arbetslivserfarenhet(){
     </div>
 `;
 }
-function Utbildning(){
-    UtbildningContent.innerHTML = `
+function Utbildning() {
+  UtbildningContent.innerHTML = `
     <p>
     <div class="flex-Utb">
         <div>  
@@ -188,8 +188,8 @@ function Utbildning(){
     </p>
     `;
 }
-function Cou(){
-    CouContent.innerHTML = `
+function Cou() {
+  CouContent.innerHTML = `
     <div class="flex-Cou">
         <div><b>Microsoft Certified Solutions Developer (MCSD): App Builder</b> <br>(Utfärdat av Microsoft)</div>
         <div><b>Microsoft Certified Solutions Associate (MCSA): Web Application</b> <br>(Utfärdat av Microsoft)</div>
@@ -208,25 +208,27 @@ function Cou(){
     </div>
     `;
 }
-function Pok(){
-    PokContent.innerHTML = `
+function Pok() {
+  PokContent.innerHTML = `
     <p>
     <div class="flex-Port">
         <div> 
-            <u><b>Kunskaper inom:</b></u><br> 
-            [Programmeringsspråk]:<br>
+            <u><b>Kunskaper inom:</b></u><br>
+            Objektorienterad programmering (OOP)<br><br> 
+            <b>[Programmeringsspråk]:</b><br>
             C# (1-2 år)<br>
             JavaScript (1-2 år)<br>
             Visual Basic (2-3 år)<br>
             PowerShell (1 år)<br><br>
-            [Ramverk & Bibliotek]<br>
+            <b>[Ramverk & Bibliotek]</b><br>
             .NET Core (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
             React<br>
             Bootstrap<br><br> 
         
-            [Övrigt]:<br>
+            <b>[Övrigt]:</b><br>
             MVC/Razor pages, Dependency Injection & Repository Pattern.<br>
             Enhetstester (xUnit) / Testdriven utveckling (TDD).<br>
+            Model-view-intent arkitektur (React)<br>
             HTML5 & CSS3<br>
             GIT<br>
             Node.js<br>
@@ -234,9 +236,7 @@ function Pok(){
             SwaggerUI<br>
             WebSockets<br>
             WebRTC & RTMP<br>
-            Webpack<br>
-            Babel<br>
-            ParcelJS / parcel-bundler<br>
+            Webpack / Babel / Parcel<br>
             Selenium WebDriver<br>
         </div>   
     </div>    
@@ -273,4 +273,4 @@ function Pok(){
     </p>
 `;
 }
-export {Intro, Ommig, Arbetslivserfarenhet, Utbildning, Cou, Pok};
+export { Intro, Ommig, Arbetslivserfarenhet, Utbildning, Cou, Pok };
