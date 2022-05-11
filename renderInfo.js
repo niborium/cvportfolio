@@ -43,7 +43,7 @@ function Ommig() {
     <div class="flex-about-ovrigt">
         <div><b><u>Övrigt</u><br> </b>Har ett stort intresse för teknik, intresset för tekniken väcktes redan under min barndom och därför jag valde utbilda mig inom IT (Systemvetenskap på IT-gymnasiet och Webbutvecklare .NET på Tekniska Högskolan i Jönköping - Jönköping University).<br><br> 
         Har sedan 2010 arbetat i IT-branschen inom diverse roller (first line, second line, dispatcher, IT-tekniker, systemförvaltare/analytiker och lite med utveckling).<br><br>
-        Jag söker arbetsgivare inom närområdet (Västmanlands län, Örebros eller Eskilstuna) alternativt arbetsgivare som erbjuder distans/flexibel distans som är i behov av utvecklare.<br><br>
+        Jag söker arbetsgivare inom närområdet (Västmanlands län, Örebros eller Eskilstuna) alternativt arbetsgivare som erbjuder distans/hybrid som är i behov av utvecklare.<br><br>
         En arbetsgivare som kan bidra till min personliga utveckling med trevliga kollegor som gör arbetsdagarna roliga och givande. 
         Om ni ser min profil som intressant så vänligen hör av er till mig via kontaktvägarna ovan.</div>
     </div>
