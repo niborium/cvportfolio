@@ -7,6 +7,8 @@ const PokContent = document.getElementById('Portstart');
 
 function Intro() {
   IntroContent.innerHTML = `
+  <br>
+<a class="btn btn-outline-info" href="https://robinkarlsson-se.translate.goog/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp" role="button">View this site in another language</a><br><br>
     <img src="resources/rk.jpg">
     <h2>ROBIN KARLSSON</h2>
     <p>Webbutvecklare .NET <br>& Botutveckling (Selenium)</p>
