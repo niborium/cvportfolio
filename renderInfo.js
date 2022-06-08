@@ -230,7 +230,7 @@ function Pok() {
             <b>[Övrigt]:</b><br>
             MVC/Razor pages, Dependency Injection & Repository Pattern.<br>
             Enhetstester (xUnit) / Testdriven utveckling (TDD).<br>
-            Model-view-intent arkitektur (React)<br>
+            Model-view-intent arkitektur (MVI)<br>
             HTML5 & CSS3<br>
             GIT<br>
             Node.js<br>
@@ -245,7 +245,12 @@ function Pok() {
     <div class="flex-Port">
         <div>
             <div class="contentbox">
-                <u><b>Portfolio</b></u><br>(Läses in med fetch via Github API): 
+                <u><b>Portfolio</b></u><br>
+                <a href="https://nxx.se/" style="font-size: 25px; text-decoration: none">nxx.se</a><br>
+                En gratis bilduppladdningstjänst som är utvecklad av mig. Byggd med React och .NET Core 6.0 Web API. Closed source.<br><br>
+                ______________________________________<br>
+                
+                (Nedan läses in med fetch via Github API): 
                 <div id="githubrepos"></div>
                 </div>
             </div> 
