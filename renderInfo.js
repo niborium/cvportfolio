@@ -220,7 +220,7 @@ function Pok() {
             <b>[Programmeringsspråk]:</b><br>
             C# (1-2 år)<br>
             JavaScript (1-2 år)<br>
-            Visual Basic (2-3 år)<br>
+            TypeScript (<1 år)<br>
             PowerShell (1 år)<br><br>
             <b>[Ramverk & Bibliotek]</b><br>
             .NET Core (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
@@ -228,7 +228,7 @@ function Pok() {
             Bootstrap<br><br> 
         
             <b>[Övrigt]:</b><br>
-            MVC/Razor pages, Dependency Injection & Repository Pattern.<br>
+            MVC, Razor pages, Dependency Injection & Repository Pattern.<br>
             Enhetstester (xUnit) / Testdriven utveckling (TDD).<br>
             Model-view-intent arkitektur (MVI)<br>
             HTML5 & CSS3<br>
