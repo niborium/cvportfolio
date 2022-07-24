@@ -11,7 +11,7 @@ function Intro() {
 <a class="btn btn-outline-info" href="https://robinkarlsson-se.translate.goog/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp" role="button">View this site in another language</a><br><br>
     <img src="resources/rk.jpg">
     <h2>ROBIN KARLSSON</h2>
-    <p>Webbutvecklare .NET<br>Apputveckling (React Native)<br>Botutveckling (Selenium)</p>
+    <p>Webbutvecklare .NET &<br>Botutveckling (Selenium)</p>
     </div><br>
     <div class="inline-block">
     <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
@@ -224,7 +224,7 @@ function Pok() {
             PowerShell (1 år)<br><br>
             <b>[Ramverk & Bibliotek]</b><br>
             .NET Core (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
-            React + React Native<br>
+            React<br>
             Bootstrap<br><br> 
         
             <b>[Övrigt]:</b><br>
