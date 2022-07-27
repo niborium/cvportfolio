@@ -11,7 +11,7 @@ function Intro() {
 <a class="btn btn-outline-info" href="https://robinkarlsson-se.translate.goog/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp" role="button">View this site in another language</a><br><br>
     <img src="resources/rk.jpg">
     <h2>ROBIN KARLSSON</h2>
-    <p>Webbutvecklare .NET &<br>Botutveckling (Selenium)</p>
+    <p>Webbutvecklare .NET, <br>Botutveckling (Selenium) &<br>MERN</p>
     </div><br>
     <div class="inline-block">
     <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
@@ -233,7 +233,7 @@ function Pok() {
             Model-view-intent arkitektur (MVI)<br>
             HTML5 & CSS3<br>
             GIT<br>
-            Node.js<br>
+            Node.js & Express<br>
             Automapper<br>
             SwaggerUI<br>
             WebSockets<br>
