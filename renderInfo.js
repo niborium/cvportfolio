@@ -230,16 +230,18 @@ function Pok() {
             <b>[Övrigt]:</b><br>
             MVC, Razor pages, Dependency Injection & Repository Pattern.<br>
             Enhetstester (xUnit) / Testdriven utveckling (TDD).<br>
-            Model-view-intent arkitektur (MVI)<br>
             HTML5 & CSS3<br>
             GIT<br>
             Node.js & Express<br>
             Automapper<br>
-            SwaggerUI<br>
+            SwaggerUI / OpenAPI<br>
             WebSockets<br>
             WebRTC & RTMP<br>
             Webpack / Babel / Parcel<br>
             Selenium WebDriver<br>
+            Microsoft SQL Server & T-SQL<br>
+            SQLite<br>
+            InMemory DatabaseProvider<br>
         </div>   
     </div>    
     <div class="flex-Port">
