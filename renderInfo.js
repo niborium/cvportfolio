@@ -40,7 +40,7 @@ function Ommig() {
     </div>
     <div class="flex-about">
         <div><b><u>Personliga egenskaper</u><br> </b>Serviceinriktad, driven, pedagogisk, flexibel, utåtriktad, ödmjuk och prestigelös.<br></div>
-        <div><b><u>Fritid</u><br> </b>Umgås med familj och vänner, skidåkning, datorspel, spelar schack och producerar egen musik.<br><br></div>
+        <div><b><u>Fritid</u><br> </b>Umgås med familj och vänner, kodar, skidåkning, gym, spelar schack och producerar egen musik.<br><br></div>
     </div>
     <div class="flex-about-ovrigt">
         <div><b><u>Övrigt</u><br> </b>Har ett stort intresse för teknik, intresset för tekniken väcktes redan under min barndom och därför jag valde utbilda mig inom IT (Systemvetenskap på IT-gymnasiet och Webbutvecklare .NET på Tekniska Högskolan i Jönköping - Jönköping University).<br><br> 
