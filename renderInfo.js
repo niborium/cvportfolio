@@ -223,7 +223,7 @@ function Pok() {
             TypeScript (<1 år)<br>
             PowerShell (1 år)<br><br>
             <b>[Ramverk & Bibliotek]</b><br>
-            .NET Core (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
+            .NET (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
             React<br>
             Bootstrap<br><br> 
         
@@ -241,7 +241,7 @@ function Pok() {
             Selenium WebDriver<br>
             Microsoft SQL Server & T-SQL<br>
             SQLite<br>
-            InMemory DatabaseProvider<br>
+            InMemory Database Provider<br>
         </div>   
     </div>    
     <div class="flex-Port">
