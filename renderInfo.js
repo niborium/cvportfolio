@@ -228,7 +228,7 @@ function Pok() {
             Bootstrap<br><br> 
         
             <b>[Övrigt]:</b><br>
-            MVC, Razor pages, Dependency Injection & Repository Pattern.<br>
+            MVC, Razor pages, Dependency Injection, Repository Pattern & SOLID Design Principles.<br>
             Enhetstester (xUnit) / Testdriven utveckling (TDD).<br>
             HTML5 & CSS3<br>
             GIT<br>
@@ -239,7 +239,7 @@ function Pok() {
             WebRTC & RTMP<br>
             Webpack / Babel / Parcel<br>
             Selenium WebDriver<br>
-            Microsoft SQL Server & T-SQL<br>
+            SQL<br>
             SQLite<br>
             InMemory Database Provider<br>
         </div>   
