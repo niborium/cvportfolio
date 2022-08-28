@@ -249,7 +249,7 @@ function Pok() {
             <div class="contentbox">
                 <u><b>Portfolio</b></u><br>
                 <a href="https://nxx.se/" style="font-size: 25px; text-decoration: none">nxx.se</a><br>
-                En gratis bilduppladdningstjänst som är utvecklad av mig. Byggd med React och .NET Core 6.0 Web API. Closed source.<br><br>
+                En gratis bilduppladdningstjänst som är utvecklad av mig. Byggd med React och .NET Core 6.0 Web API. Frontend hostad på Vercel och backend hostad hos Contabo med Ubuntu (Nginx reverse proxy) med Let's Encrypt SSL. Closed source projekt.<br><br>
                 ______________________________________<br>
                 
                 (Nedan läses in med fetch via Github API): 
