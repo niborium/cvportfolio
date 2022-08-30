@@ -236,7 +236,8 @@ function Pok() {
             Automapper<br>
             SwaggerUI / OpenAPI<br>
             WebSockets<br>
-            WebRTC & RTMP<br>
+            WebRTC<br>
+            Microsoft Authentication Library (MSAL2.0) & OpenIdConnect för AzureAD (Autentiseringslösning)<br>
             Webpack / Babel / Parcel<br>
             Selenium WebDriver<br>
             SQL<br>
