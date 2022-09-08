@@ -219,9 +219,11 @@ function Pok() {
             Objektorienterad programmering (OOP)<br><br> 
             <b>[Programmeringsspråk]:</b><br>
             C# (1-2 år)<br>
+            Visual Basic (2~ år)<br>
             JavaScript (1-2 år)<br>
             TypeScript (<1 år)<br>
-            PowerShell (1 år)<br><br>
+            PowerShell (1 år)<br>
+            Lua (basic scripting)<br><br>
             <b>[Ramverk & Bibliotek]</b><br>
             .NET (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
             React<br>
@@ -230,6 +232,7 @@ function Pok() {
             <b>[Övrigt]:</b><br>
             MVC, Razor pages, Dependency Injection, Repository Pattern & SOLID Design Principles.<br>
             Enhetstester (xUnit) / Testdriven utveckling (TDD).<br>
+            Monolithic & Microservice Architecture.<br>
             HTML5 & CSS3<br>
             GIT<br>
             Node.js & Express<br>
@@ -250,7 +253,7 @@ function Pok() {
             <div class="contentbox">
                 <u><b>Portfolio</b></u><br>
                 <a href="https://nxx.se/" style="font-size: 25px; text-decoration: none">nxx.se</a><br>
-                En gratis bilduppladdningstjänst som är utvecklad av mig. Byggd med React och .NET Core 6.0 Web API. Frontend hostad på Vercel och backend hostad hos Contabo med Ubuntu (Nginx reverse proxy) med Let's Encrypt SSL. Closed source projekt.<br><br>
+                En gratis bilduppladdningstjänst som är utvecklad av mig. Byggd med React och .NET Core 6.0 Web API. Frontend hostad på Vercel och backend hostad hos Contabo med Ubuntu (Nginx reverse proxy) med Let's Encrypt SSL. Closed source projekt med Microservice Application Architecture.<br><br>
                 ______________________________________<br>
                 
                 (Nedan läses in med fetch via Github API): 
