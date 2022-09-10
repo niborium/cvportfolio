@@ -227,6 +227,7 @@ function Pok() {
             <b>[Ramverk & Bibliotek]</b><br>
             .NET (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
             React<br>
+            Tillståndshantering: Context API (React) och Redux.<br>
             Bootstrap<br><br> 
         
             <b>[Övrigt]:</b><br>
