@@ -241,7 +241,7 @@ function Pok() {
             SwaggerUI / OpenAPI<br>
             WebSockets<br>
             WebRTC<br>
-            Microsoft Authentication Library (MSAL2.0) & OpenIdConnect för AzureAD (Autentiseringslösning)<br>
+            Microsoft Authentication Library (MSAL2.0), OAuth2 & OpenID Connect<br>
             Webpack / Babel / Parcel<br>
             Selenium WebDriver<br>
             SQL<br>
