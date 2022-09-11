@@ -133,6 +133,7 @@ function Utbildning() {
     <div class="flex-Utb">
         <div>  
             <b>Tekniska högskolan i Jönköping (JTH)</b><br>
+            <u>Examne: Yrkeshögskoleexamen (Jönköping University)</u><br>
             <u>Program: Webbutvecklare .NET (2021-2023)</u><br>
             Webbapplikation MVP 50 Yhp<br>
             Objektorienterad programmering med C# 25 Yhp<br>
