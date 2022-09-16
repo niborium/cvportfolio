@@ -248,6 +248,8 @@ function Pok() {
             SQL<br>
             SQLite<br>
             InMemory Database Provider<br>
+            Scrum & SAFe (Scaled Agile Framework)<br>
+            Unified Modeling Language (UML)<br>
         </div>   
     </div>    
     <div class="flex-Port">
