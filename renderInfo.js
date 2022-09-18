@@ -218,12 +218,7 @@ function Pok() {
             <u><b>Kunskaper inom:</b></u><br>
             Objektorienterad programmering (OOP)<br><br> 
             <b>[Programmeringsspråk]:</b><br>
-            C# (1-2 år)<br>
-            Visual Basic (2~ år)<br>
-            JavaScript (1-2 år)<br>
-            TypeScript (<1 år)<br>
-            PowerShell (1 år)<br>
-            Lua (basic scripting)<br><br>
+            C#, Visual Basic, JavaScript, TypeScript, PowerShell & Lua<br><br>
             <b>[Ramverk & Bibliotek]</b><br>
             .NET (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
             React<br>
