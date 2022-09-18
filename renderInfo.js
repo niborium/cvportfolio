@@ -34,13 +34,12 @@ function Ommig() {
   OmmigContent.innerHTML = `
     <p>
     <div class="flex-about">
-        <div><b><u>Namn</u><br> </b>Robin Karlsson<br></div>
         <div><b><u>Ålder</u><br> </b><p id="age"></p><br></div>
         <div><b><u>Körkort</u><br> </b> Ja (B-behörighet).<br></div>
     </div>
     <div class="flex-about">
-        <div><b><u>Personliga egenskaper</u><br> </b>Serviceinriktad, driven, pedagogisk, flexibel, utåtriktad, ödmjuk och prestigelös.<br></div>
-        <div><b><u>Fritid</u><br> </b>Umgås med familj och vänner, kodar, skidåkning, gym, spelar schack och producerar egen musik.<br><br></div>
+        <div><b><u>Personliga egenskaper</u><br> </b>Serviceinriktad<br> Driven<br> Pedagogisk<br> Flexibel<br> Utåtriktad<br> Ödmjuk<br> Prestigelös.<br></div>
+        <div><b><u>Fritid</u><br> </b>Umgås med familj och vänner<br> Koda<br> Skidåkning<br> Spelar schack<br> Producerar egen musik.<br><br></div>
     </div>
     <div class="flex-about-ovrigt">
         <div><b><u>Övrigt</u><br> </b>Har ett stort intresse för teknik, intresset för tekniken väcktes redan under min barndom och därför jag valde utbilda mig inom IT (Systemvetenskap på IT-gymnasiet och Webbutvecklare .NET på Tekniska Högskolan i Jönköping - Jönköping University).<br><br> 
@@ -133,7 +132,7 @@ function Utbildning() {
     <div class="flex-Utb">
         <div>  
             <b>Tekniska högskolan i Jönköping (JTH)</b><br>
-            <u>Examne: Yrkeshögskoleexamen (Jönköping University)</u><br>
+            <u>Examen: Yrkeshögskoleexamen (Jönköping University)</u><br>
             <u>Program: Webbutvecklare .NET (2021-2023)</u><br>
             Webbapplikation MVP 50 Yhp<br>
             Objektorienterad programmering med C# 25 Yhp<br>
