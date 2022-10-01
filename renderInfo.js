@@ -215,17 +215,17 @@ function Pok() {
     <p>
     <div class="flex-Port">
         <div> 
-            <u><b>Kunskaper inom:</b></u><br>
+            <u><b>Kunskaper inom</b></u><br>
             Objektorienterad programmering (OOP)<br><br> 
-            <b>[Programmeringsspråk]:</b><br>
+            <u><b>Programmeringsspråk:</b></u><br>
             C#, Visual Basic, JavaScript, TypeScript, PowerShell & Lua<br><br>
-            <b>[Ramverk & Bibliotek]</b><br>
+            <u><b>Ramverk & Bibliotek</b></u><br>
             .NET (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
             React<br>
             Tillståndshantering: Context API (React) och Redux.<br>
             Bootstrap<br><br> 
         
-            <b>[Övrigt]:</b><br>
+            <u><b>Övrigt:</b></u><br>
             MVC, Razor pages, Dependency Injection, Repository Pattern & SOLID Design Principles.<br>
             Enhetstester (xUnit) / Testdriven utveckling (TDD).<br>
             Monolithic & Microservice Architecture.<br>
@@ -244,6 +244,10 @@ function Pok() {
             InMemory Database Provider<br>
             Scrum & SAFe (Scaled Agile Framework)<br>
             Unified Modeling Language (UML)<br>
+            Linux<br>
+            Apache & Nginx<br><br>
+            <u><b>Hosting & Cloud platforms</u></b><br>
+            Vercel, Contabo, Digital Ocean, Linode & Heroku<br>
         </div>   
     </div>    
     <div class="flex-Port">
