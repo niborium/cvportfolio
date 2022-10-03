@@ -216,22 +216,25 @@ function Pok() {
     <div class="flex-Port">
         <div> 
             <u><b>Kunskaper inom</b></u><br>
-            Objektorienterad programmering (OOP)<br><br> 
+            Objektorienterad programmering (OOP).<br>
+            Scrum & SAFe (Scaled Agile Framework).<br>
+            Enhetstester (xUnit) / Testdriven utveckling (TDD).<br><br>
+            
+            <u><b>Front-end:</b></u><br>
+            React, TypeScript, JavaScript, HTML5, CSS3 & Bootstrap.<br><br>
+
+            <u><b>Backend-end:</b></u><br>
+            .NET (inkl WEB API/REST, MVC, Razor pages, Dependency Injection, Entity Framework, Identity Core & SignalR).<br><br>
+            Node.js & Express<br><br>
+            SQL, SQLite & InMemory Database Provider<br><br>
+
             <u><b>Programmeringsspråk:</b></u><br>
-            C#, Visual Basic, JavaScript, TypeScript, PowerShell & Lua<br><br>
-            <u><b>Ramverk & Bibliotek</b></u><br>
-            .NET (inkl WEB API/REST, Entity Framework, Identity Core & SignalR)<br>
-            React<br>
-            Tillståndshantering: Context API (React) och Redux.<br>
-            Bootstrap<br><br> 
+            C#, JavaScript, TypeScript, PowerShell & Lua<br><br>
         
             <u><b>Övrigt:</b></u><br>
-            MVC, Razor pages, Dependency Injection, Repository Pattern & SOLID Design Principles.<br>
-            Enhetstester (xUnit) / Testdriven utveckling (TDD).<br>
-            Monolithic & Microservice Architecture.<br>
-            HTML5 & CSS3<br>
             GIT<br>
-            Node.js & Express<br>
+            Repository Pattern & SOLID Design Principles.<br>
+            Monolithic & Microservice Architecture.<br>
             Automapper<br>
             SwaggerUI / OpenAPI<br>
             WebSockets<br>
@@ -239,10 +242,6 @@ function Pok() {
             Microsoft Authentication Library (MSAL2.0), OAuth2 & OpenID Connect<br>
             Webpack / Babel / Parcel<br>
             Selenium WebDriver<br>
-            SQL<br>
-            SQLite<br>
-            InMemory Database Provider<br>
-            Scrum & SAFe (Scaled Agile Framework)<br>
             Unified Modeling Language (UML)<br>
             Linux<br>
             Apache & Nginx<br><br>
