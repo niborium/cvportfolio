@@ -34,17 +34,18 @@ function Ommig() {
   OmmigContent.innerHTML = `
     <p>
     <div class="flex-about">
-        <div><b><u>Ålder</u><br> </b><p id="age"></p><br></div>
-        <div><b><u>Körkort</u><br> </b> Ja (B-behörighet).<br></div>
+        <div><b><u>Ålder</u><br> </b><span class="badge bg-secondary" id="age"></span></h6><br></div>
+        <div><b><u>Körkort</u><br> </b> <span class="badge bg-secondary">B-behörighet</span></h6><br></div>
     </div>
     <div class="flex-about">
-        <div><b><u>Personliga egenskaper</u><br> </b>Serviceinriktad<br> Driven<br> Pedagogisk<br> Flexibel<br> Utåtriktad<br> Ödmjuk<br> Prestigelös.<br></div>
-        <div><b><u>Fritid</u><br> </b>Umgås med familj och vänner<br> Koda<br> Skidåkning<br> Spelar schack<br> Producerar egen musik.<br><br></div>
+        <div><b><u>Personliga egenskaper</u><br> </b><span class="badge bg-secondary">Serviceinriktad</span></h6><br> <span class="badge bg-secondary">Driven</span></h6><br> <span class="badge bg-secondary">Pedagogisk</span></h6><br> <span class="badge bg-secondary">Flexibel</span></h6><br> <span class="badge bg-secondary">Utåtriktad</span></h6><br> <span class="badge bg-secondary">Ödmjuk</span></h6><br> <span class="badge bg-secondary">Prestigelös</span></h6><br></div>
+        <div><b><u>Fritid</u><br> </b><span class="badge bg-secondary">Umgås med familj och vänner</span></h6><br> <span class="badge bg-secondary">Koda</span></h6><br> <span class="badge bg-secondary">Skidåkning</span></h6><br> <span class="badge bg-secondary">Spela schack</span></h6><br> <span class="badge bg-secondary">Producera musik</span></h6><br> <span class="badge bg-secondary">Teknik</span></h6><br> <span class="badge bg-secondary">Datorspel</span></h6><br><br></div>
     </div>
     <div class="flex-about-ovrigt">
-        <div><b><u>Övrigt</u><br> </b>Har ett stort intresse för teknik, intresset för tekniken väcktes redan under min barndom och därför jag valde utbilda mig inom IT (Systemvetenskap på IT-gymnasiet och Webbutvecklare .NET på Tekniska Högskolan i Jönköping - Jönköping University).<br><br> 
-        Har sedan 2010 arbetat i IT-branschen inom diverse roller (first line, second line, dispatcher, IT-tekniker, systemförvaltare/analytiker och lite med utveckling).<br><br>
-        Jag söker arbetsgivare inom närområdet (Västmanlands län, Örebro eller Eskilstuna) alternativt arbetsgivare som erbjuder distans/hybrid som är i behov av utvecklare.<br><br>
+        <div><b><u>Bakgrund</u><br> </b>Utbildad inom Systemvetenskap på IT-gymnasiet och Webbutvecklare .NET på Tekniska Högskolan i Jönköping - Jönköping University).<br><br> 
+        Har sedan 2010 arbetat i IT-branschen inom diverse roller (first line, second line, dispatcher, IT-tekniker, systemförvaltare/analytiker och en del med utveckling).<br><br>
+        <b><u>Vad jag söker</u></b><br>
+        Söker arbetsgivare inom närområdet (Västmanlands län, Örebro, Eskilstuna och eventuellt Borlänge) alternativt arbetsgivare som erbjuder distans/hybrid som är i behov av utvecklare.<br><br>
         En arbetsgivare som kan bidra till min personliga utveckling med trevliga kollegor som gör arbetsdagarna roliga och givande. 
         Om ni ser min profil som intressant så vänligen hör av er till mig via kontaktvägarna ovan.</div>
     </div>
