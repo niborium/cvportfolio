@@ -216,37 +216,73 @@ function Pok() {
     <div class="flex-Port">
         <div> 
             <u><b>Kunskaper inom</b></u><br>
-            Objektorienterad programmering (OOP).<br>
-            Scrum & SAFe (Scaled Agile Framework).<br>
-            Enhetstester (xUnit) / Testdriven utveckling (TDD).<br><br>
+            <span class="badge bg-secondary">Objektorienterad programmering (OOP)</span></h6>
+            <span class="badge bg-secondary">Scrum & SAFe (Scaled Agile Framework)</span></h6>
+            <span class="badge bg-secondary">Enhetstester (xUnit) / Testdriven utveckling (TDD)</span></h6>
+            <br><br>
             
             <u><b>Front-end:</b></u><br>
-            React, TypeScript, JavaScript, HTML5, CSS3 & Bootstrap.<br><br>
+            <span class="badge bg-secondary">React</span></h6>
+            <span class="badge bg-secondary">TypeScript</span></h6>
+            <span class="badge bg-secondary">JavaScript</span></h6>
+            <span class="badge bg-secondary">HTML5</span></h6>
+            <span class="badge bg-secondary">CSS3</span></h6>
+            <span class="badge bg-secondary">Bootstrap</span></h6>
+            <br><br>
 
             <u><b>Backend-end:</b></u><br>
-            .NET (inkl WEB API/REST, MVC, Razor pages, Dependency Injection, Entity Framework, Identity Core & SignalR).<br><br>
-            Node.js & Express<br><br>
-            SQL, SQLite & InMemory Database Provider<br><br>
+            <span class="badge bg-secondary">.NET</span></h6>
+            <span class="badge bg-secondary">WEB API & REST</span></h6>
+            <span class="badge bg-secondary">MVC</span></h6>
+            <span class="badge bg-secondary">Razor</span></h6>
+            <span class="badge bg-secondary">Dependency Injection (DI)</span></h6>
+            <span class="badge bg-secondary">Entity Framework</span></h6>
+            <span class="badge bg-secondary">Identity Core</span></h6>
+            <span class="badge bg-secondary">SignalR</span></h6>
+            <br><br>
+
+            <span class="badge bg-secondary">Node.js</span></h6>
+            <span class="badge bg-secondary">Express</span></h6>
+            <br><br>
+
+            <span class="badge bg-secondary">SQL</span></h6>
+            <span class="badge bg-secondary">SQLite</span></h6>
+            <span class="badge bg-secondary">InMemory Database Provider</span></h6>
+            <br><br>
 
             <u><b>Programmeringsspråk:</b></u><br>
-            C#, JavaScript, TypeScript, PowerShell & Lua<br><br>
+            <span class="badge bg-secondary">C#</span></h6>
+            <span class="badge bg-secondary">JavaScript</span></h6>
+            <span class="badge bg-secondary">TypeScript</span></h6>
+            <span class="badge bg-secondary">PowerShell</span></h6>
+            <span class="badge bg-secondary">Lua</span></h6>
+            <br><br>
         
             <u><b>Övrigt:</b></u><br>
-            GIT<br>
-            Repository Pattern & SOLID Design Principles.<br>
-            Monolithic & Microservice Architecture.<br>
-            Automapper<br>
-            SwaggerUI / OpenAPI<br>
-            WebSockets<br>
-            WebRTC<br>
-            Microsoft Authentication Library (MSAL2.0), OAuth2 & OpenID Connect<br>
-            Webpack / Babel / Parcel<br>
-            Selenium WebDriver<br>
-            Unified Modeling Language (UML)<br>
-            Linux<br>
-            Apache & Nginx<br><br>
+            <span class="badge bg-secondary">GIT</span></h6>
+            <span class="badge bg-secondary">Repository Pattern & SOLID Design Principles</span></h6>
+            <span class="badge bg-secondary">Monolithic & Microservice Architecture</span></h6>
+            <span class="badge bg-secondary">Automapper</span></h6>
+            <span class="badge bg-secondary">SwaggerUI / OpenAPI</span></h6>
+            <span class="badge bg-secondary">WebSockets</span></h6>
+            <span class="badge bg-secondary">WebRTC</span></h6>
+            <span class="badge bg-secondary">Microsoft Authentication Library (MSAL2.0)</span></h6>
+            <span class="badge bg-secondary">OAuth2</span></h6>
+            <span class="badge bg-secondary">OpenID Connect</span></h6>
+            <span class="badge bg-secondary">Webpack / Babel / Parcel</span></h6>
+            <span class="badge bg-secondary">Selenium WebDriver</span></h6>
+            <span class="badge bg-secondary">Unified Modeling Language (UML)</span></h6>
+            <span class="badge bg-secondary">Linux</span></h6>
+            <span class="badge bg-secondary">Apache & Nginx</span></h6>
+            <br><br>
+
             <u><b>Hosting & Cloud platforms</u></b><br>
-            Vercel, Contabo, Digital Ocean, Linode & Heroku<br>
+            <span class="badge bg-secondary">Vercel</span></h6>
+            <span class="badge bg-secondary">Contabo</span></h6>
+            <span class="badge bg-secondary">Digital Ocean</span></h6>
+            <span class="badge bg-secondary">Linode</span></h6>
+            <span class="badge bg-secondary">Heroku</span></h6>            
+            <br>
         </div>   
     </div>    
     <div class="flex-Port">
