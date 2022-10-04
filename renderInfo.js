@@ -39,10 +39,10 @@ function Ommig() {
     </div>
     <div class="flex-about">
         <div><b><u>Personliga egenskaper</u><br> </b><span class="badge bg-secondary">Serviceinriktad</span></h6><br> <span class="badge bg-secondary">Driven</span></h6><br> <span class="badge bg-secondary">Pedagogisk</span></h6><br> <span class="badge bg-secondary">Flexibel</span></h6><br> <span class="badge bg-secondary">Utåtriktad</span></h6><br> <span class="badge bg-secondary">Ödmjuk</span></h6><br> <span class="badge bg-secondary">Prestigelös</span></h6><br></div>
-        <div><b><u>Fritid</u><br> </b><span class="badge bg-secondary">Umgås med familj och vänner</span></h6><br> <span class="badge bg-secondary">Koda</span></h6><br> <span class="badge bg-secondary">Skidåkning</span></h6><br> <span class="badge bg-secondary">Spela schack</span></h6><br> <span class="badge bg-secondary">Producera musik</span></h6><br> <span class="badge bg-secondary">Teknik</span></h6><br> <span class="badge bg-secondary">Datorspel</span></h6><br><br></div>
+        <div><b><u>Fritid</u><br> </b><span class="badge bg-secondary">Umgås med familj och vänner</span></h6><br> <span class="badge bg-secondary">Koda</span></h6><br> <span class="badge bg-secondary">Skidåkning</span></h6><br> <span class="badge bg-secondary">Schack</span></h6><br> <span class="badge bg-secondary">Producera musik</span></h6><br> <span class="badge bg-secondary">Teknik</span></h6><br> <span class="badge bg-secondary">Datorspel</span></h6><br><br></div>
     </div>
     <div class="flex-about-ovrigt">
-        <div><b><u>Bakgrund</u><br> </b>Utbildad inom Systemvetenskap på IT-gymnasiet och Webbutvecklare .NET på Tekniska Högskolan i Jönköping - Jönköping University).<br><br> 
+        <div><b><u>Bakgrund</u><br> </b>Utbildad inom Systemvetenskap på IT-gymnasiet Västerås och Webbutvecklare .NET på Tekniska Högskolan i Jönköping - Jönköping University).<br><br> 
         Har sedan 2010 arbetat i IT-branschen inom diverse roller (first line, second line, dispatcher, IT-tekniker, systemförvaltare/analytiker och en del med utveckling).<br><br>
         <b><u>Vad jag söker</u></b><br>
         Söker arbetsgivare inom närområdet (Västmanlands län, Örebro, Eskilstuna och eventuellt Borlänge) alternativt arbetsgivare som erbjuder distans/hybrid som är i behov av utvecklare.<br><br>
