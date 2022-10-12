@@ -39,7 +39,7 @@ function Ommig() {
     </div>
     <div class="flex-about">
         <div><b><u>Personliga egenskaper</u><br> </b><span class="badge bg-secondary">Serviceinriktad</span></h6><br> <span class="badge bg-secondary">Driven</span></h6><br> <span class="badge bg-secondary">Pedagogisk</span></h6><br> <span class="badge bg-secondary">Flexibel</span></h6><br> <span class="badge bg-secondary">Utåtriktad</span></h6><br> <span class="badge bg-secondary">Ödmjuk</span></h6><br> <span class="badge bg-secondary">Prestigelös</span></h6><br></div>
-        <div><b><u>Fritid</u><br> </b><span class="badge bg-secondary">Umgås med familj och vänner</span></h6><br> <span class="badge bg-secondary">Koda</span></h6><br> <span class="badge bg-secondary">Skidåkning</span></h6><br> <span class="badge bg-secondary">Schack</span></h6><br> <span class="badge bg-secondary">Producera musik</span></h6><br> <span class="badge bg-secondary">Teknik</span></h6><br> <span class="badge bg-secondary">Datorspel</span></h6><br><br></div>
+        <div><b><u>Fritid</u><br> </b><span class="badge bg-secondary">Umgås med familj och vänner</span></h6><br> <span class="badge bg-secondary">Koda</span></h6><br> <span class="badge bg-secondary">Skidåkning</span></h6><br> <span class="badge bg-secondary">Schack</span></h6><br> <span class="badge bg-secondary">Producera musik</span></h6><br> <span class="badge bg-secondary">Teknik</span></h6><br><br></div>
     </div>
     <div class="flex-about-ovrigt">
         <div><b><u>Bakgrund</u><br> </b>Utbildad inom Systemvetenskap på IT-gymnasiet Västerås och Webbutvecklare .NET på Tekniska Högskolan i Jönköping - Jönköping University).<br><br> 
@@ -232,6 +232,7 @@ function Pok() {
             <span class="badge bg-secondary">React</span></h6>
             <span class="badge bg-secondary">TypeScript</span></h6>
             <span class="badge bg-secondary">JavaScript</span></h6>
+            <span class="badge bg-secondary">Blazor</span></h6>
             <span class="badge bg-secondary">HTML5</span></h6>
             <span class="badge bg-secondary">CSS3</span></h6>
             <span class="badge bg-secondary">Bootstrap</span></h6>
@@ -242,6 +243,7 @@ function Pok() {
             <span class="badge bg-secondary">.NET</span></h6>
             <span class="badge bg-secondary">WEB API & REST</span></h6>
             <span class="badge bg-secondary">MVC</span></h6>
+            <span class="badge bg-secondary">Blazor</span></h6>
             <span class="badge bg-secondary">Razor</span></h6>
             <span class="badge bg-secondary">Dependency Injection (DI)</span></h6>
             <span class="badge bg-secondary">Entity Framework</span></h6>
