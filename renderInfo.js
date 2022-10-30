@@ -232,7 +232,7 @@ function Pok() {
             <span class="badge bg-secondary">React</span></h6>
             <span class="badge bg-secondary">TypeScript</span></h6>
             <span class="badge bg-secondary">JavaScript</span></h6>
-            <span class="badge bg-secondary">Blazor</span></h6>
+            <span class="badge bg-secondary">Blazor WebAssembly (WASM)</span></h6>
             <span class="badge bg-secondary">HTML5</span></h6>
             <span class="badge bg-secondary">CSS3</span></h6>
             <span class="badge bg-secondary">Bootstrap</span></h6>
@@ -243,7 +243,7 @@ function Pok() {
             <span class="badge bg-secondary">.NET</span></h6>
             <span class="badge bg-secondary">WEB API & REST</span></h6>
             <span class="badge bg-secondary">MVC</span></h6>
-            <span class="badge bg-secondary">Blazor</span></h6>
+            <span class="badge bg-secondary">Blazor Server</span></h6>
             <span class="badge bg-secondary">Razor</span></h6>
             <span class="badge bg-secondary">Dependency Injection (DI)</span></h6>
             <span class="badge bg-secondary">Entity Framework</span></h6>
@@ -265,7 +265,6 @@ function Pok() {
             <span class="badge bg-secondary">JavaScript</span></h6>
             <span class="badge bg-secondary">TypeScript</span></h6>
             <span class="badge bg-secondary">PowerShell</span></h6>
-            <span class="badge bg-secondary">Lua</span></h6>
             <br><br>
         
             <u><b>Övrigt:</b></u><br>
