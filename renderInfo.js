@@ -56,6 +56,7 @@ function Ommig() {
 }
 function Arbetslivserfarenhet() {
   ArbetslivserfarenhetContent.innerHTML = `
+    <embed src="resources/we.png" height="5%" width="5%">
     <div class="flex-Arblf">
         <div>
             <span class="badge bg-secondary">Försvarsmakten (Systemanalytiker)</span></h3>
@@ -138,6 +139,7 @@ function Arbetslivserfarenhet() {
 function Utbildning() {
   UtbildningContent.innerHTML = `
     <p>
+    <embed src="resources/education.png" height="5%" width="5%">
     <div class="flex-Utb">
         <div>  
             <b>Tekniska högskolan i Jönköping (JTH)</b><br>
@@ -201,6 +203,7 @@ function Utbildning() {
 }
 function Cou() {
   CouContent.innerHTML = `
+    <embed src="resources/certificate.png" height="5%" width="5%">
     <div class="flex-Cou">
         <div><b>Microsoft Certified Solutions Developer (MCSD): App Builder</b> <br>(Utfärdat av Microsoft)</div>
         <div><b>Microsoft Certified Solutions Associate (MCSA): Web Application</b> <br>(Utfärdat av Microsoft)</div>
@@ -221,6 +224,7 @@ function Cou() {
 }
 function Pok() {
   PokContent.innerHTML = `
+    <embed src="resources/resume.png" height="5%" width="5%">
     <p>
     <div class="flex-Port">
         <div> 
