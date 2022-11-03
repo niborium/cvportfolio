@@ -225,7 +225,7 @@ function Pok() {
             <u><b>Kunskaper inom</b></u><br>
             <span class="badge bg-secondary">Objektorienterad programmering (OOP)</span></h6>
             <span class="badge bg-secondary">Scrum & SAFe (Scaled Agile Framework)</span></h6>
-            <span class="badge bg-secondary">Enhetstester (xUnit) / Testdriven utveckling (TDD)</span></h6>
+            <span class="badge bg-secondary">Enhetstester (xUnit, MSTest) / Testdriven utveckling (TDD)</span></h6>
             <br><br>
             
             <u><b>Front-end:</b></u><br>
@@ -281,6 +281,7 @@ function Pok() {
             <span class="badge bg-secondary">Webpack / Babel / Parcel</span></h6>
             <span class="badge bg-secondary">Selenium WebDriver</span></h6>
             <span class="badge bg-secondary">Unified Modeling Language (UML)</span></h6>
+            <span class="badge bg-secondary">Kestrel</span></h6>
             <span class="badge bg-secondary">Linux</span></h6>
             <span class="badge bg-secondary">Apache & Nginx</span></h6>
             <br><br>
