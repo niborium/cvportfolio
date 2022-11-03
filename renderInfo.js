@@ -9,9 +9,9 @@ function Intro() {
   IntroContent.innerHTML = `
   <br>
 <a class="btn btn-outline-info" href="https://robinkarlsson-se.translate.goog/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp" role="button">View this site in another language</a><br><br>
-    <img src="resources/1619357188531.jpg">
+    <img src="resources/giphy.gif">
     <h2>ROBIN KARLSSON</h2>
-    <p>Systemutvecklare</p>
+    <p>Systemutvecklare & Webbutvecklare</p>
     </div><br>
     <div class="inline-block">
     <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
@@ -33,6 +33,8 @@ function Intro() {
 function Ommig() {
   OmmigContent.innerHTML = `
     <p>
+    <br>
+    <img src="resources/1619357188531.jpg">
     <div class="flex-about">
         <div><b><u>Ålder</u><br> </b><span class="badge bg-secondary" id="age"></span></h6><br></div>
         <div><b><u>Körkort</u><br> </b> <span class="badge bg-secondary">B-behörighet</span></h6><br></div>
