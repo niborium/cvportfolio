@@ -1,12 +1,12 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 * {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #age {
-font-size: 100% !important;
-margin: 5px !important;
+  font-size: 100% !important;
+  margin: 5px !important;
 }
 
 img {
@@ -138,8 +138,12 @@ p {
 
 @media only screen and (max-width: 600px) {
   img {
-    width: 40%;
-    height: 40%;
+    width: 60%;
+    height: 60%;
+  }
+  embed {
+    width: 20%;
+    height: 20%;
   }
   h1,
   h2,
