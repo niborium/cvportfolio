@@ -242,7 +242,7 @@ function Pok() {
             <span class="badge bg-secondary">HTML5</span></h6>
             <span class="badge bg-secondary">CSS3</span></h6>
             <span class="badge bg-secondary">Bootstrap</span></h6>
-            <span class="badge bg-secondary">Tailwind</span></h6>
+            <span class="badge bg-secondary">Bulma</span></h6>
             <br><br>
 
             <u><b>Backend-end:</b></u><br>
