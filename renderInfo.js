@@ -58,6 +58,14 @@ function Arbetslivserfarenhet() {
   ArbetslivserfarenhetContent.innerHTML = `
     <embed src="resources/we.png" height="5%" width="5%">
     <div class="flex-Arblf">
+    <div>
+        <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare) - Praktik</span></h3>
+        <u><br>Januari 2022-11-07-2022-01-13<br></u>
+        Som en del av mina studier så utför jag min LIA (Lärande i arbete) - Praktik hos Infobric Fleet där jag jobbar som Systemutvecklare.
+        Mitt uppdrag var att konvertera en modul från Ext JS till React. Arbetet inkluderade React, Symantic UI, Custom CSS, Tillståndshantering med MobX, hämta/skicka data via API/Controllers m.m.
+    </div>
+    </div>
+    <div class="flex-Arblf">
         <div>
             <span class="badge bg-secondary">Försvarsmakten (Systemanalytiker)</span></h3>
             <u><br>Januari 2020-nu (Nuvarande)<br></u>
@@ -239,10 +247,12 @@ function Pok() {
             <span class="badge bg-secondary">TypeScript</span></h6>
             <span class="badge bg-secondary">JavaScript</span></h6>
             <span class="badge bg-secondary">Blazor WebAssembly (WASM)</span></h6>
+            <span class="badge bg-secondary">Tillståndshantering (Context, Redux & MobX)</span></h6>
             <span class="badge bg-secondary">HTML5</span></h6>
             <span class="badge bg-secondary">CSS3</span></h6>
             <span class="badge bg-secondary">Bootstrap</span></h6>
             <span class="badge bg-secondary">Bulma</span></h6>
+            <span class="badge bg-secondary">Semantic UI</span></h6>
             <br><br>
 
             <u><b>Backend-end:</b></u><br>
