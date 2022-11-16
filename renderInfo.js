@@ -60,7 +60,7 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
     <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare) - Praktik</span></h3>
-        <u><br>Januari 2022-11-07-2022-01-13<br></u>
+        <u><br>Januari 2022-11-07-2023-01-13<br></u>
         Som en del av mina studier så har jag utfört min LIA (Lärande i arbete) - Praktik hos Infobric Fleet där jag jobbat som Systemutvecklare. 
         Mitt uppdrag var att konvertera en modul från Ext JS till React. Arbetet inkluderade React, Symantic UI, SCSS (Sassy CSS), custom CSS, Tillståndshantering med MobX, hämta/skicka data via API/Controllers m.m.
     </div>
