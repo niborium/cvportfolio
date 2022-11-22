@@ -237,6 +237,7 @@ function Pok() {
     <div class="flex-Port">
         <div> 
             <u><b>Kunskaper inom</b></u><br>
+            <span class="badge bg-secondary">Webbutveckling & Systemutveckling</span></h6>
             <span class="badge bg-secondary">Objektorienterad programmering (OOP)</span></h6>
             <span class="badge bg-secondary">Scrum & SAFe (Scaled Agile Framework)</span></h6>
             <span class="badge bg-secondary">Enhetstester (xUnit, MSTest) / Testdriven utveckling (TDD)</span></h6>
