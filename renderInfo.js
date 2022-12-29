@@ -323,7 +323,11 @@ function Pok() {
                 Closed source projekt med Microservice Application Architecture.<br><br>
                 Snapshot av tjänsten finns nedan:
                 <a href="https://ibb.co/HrqHzb0"><img src="https://i.ibb.co/hKVmW4k/nxx-snapshot.png" alt="nxx-snapshot" border="0" width='50%' height='50%'/></a><br>
-                <a href="https://archive.vn/I1gDL">Arkiverad snapshot hos Archive.vn</a>
+                <a href="https://archive.vn/I1gDL">Arkiverad snapshot hos Archive.vn</a><br>
+                <a href="https://postimg.cc/Q9D3fSRX">Bildsnapshot hos postimg.cc (backup för ovan)</a><br>
+                <a href="https://freeimage.host/i/HT4i9Np">Bildsnapshot hos freeimage.host (backup för ovan)</a>
+                
+                
                 ______________________________________<br>
                 
                 (Nedan läses in med fetch via Github API): 
