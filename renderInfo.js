@@ -317,8 +317,13 @@ function Pok() {
         <div>
             <div class="contentbox">
                 <u><b>Portfolio</b></u><br>
-                <a href="https://nxx.se/" style="font-size: 25px; text-decoration: none">nxx.se</a><br>
-                En gratis bilduppladdningstjänst som är utvecklad av mig. Byggd med React och .NET Core 6.0 Web API. Frontend hostad hos Vercel och backend hostad hos Contabo med Ubuntu (Nginx reverse proxy). Closed source projekt med Microservice Application Architecture.<br><br>
+                <b>nxx.se <br>(tjänsten är nedstängd)</b><br>
+                Var en gratis bilduppladdningstjänst som var utvecklad av mig. Byggd med React och .NET Core 6.0 Web API.
+                Frontend hostades hos Vercel och backend hostades hos Contabo med Ubuntu (Nginx reverse proxy).
+                Closed source projekt med Microservice Application Architecture.<br><br>
+                Snapshot av tjänsten finns nedan:
+                <a href="https://ibb.co/HrqHzb0"><img src="https://i.ibb.co/hKVmW4k/nxx-snapshot.png" alt="nxx-snapshot" border="0" width='50%' height='50%'/></a><br>
+                <a href="https://archive.vn/I1gDL">Arkiverad snapshot hos Archive.vn</a>
                 ______________________________________<br>
                 
                 (Nedan läses in med fetch via Github API): 
