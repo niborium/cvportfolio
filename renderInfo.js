@@ -60,7 +60,7 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
     <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare) - Praktik</span></h3>
-        <u><br>Januari 2022-11-07-2023-01-13<br></u>
+        <u><br>Januari 2022-11-07-2023-01-13 <b style="color:red;">(Avslutad)</b><br></u>
         Som en del av mina studier så har jag utfört min LIA (Lärande i arbete) - Praktik hos Infobric Fleet där jag jobbat som Systemutvecklare. 
         Mitt uppdrag var att konvertera en körjournalsmodul från Ext JS till React. Arbetet inkluderade TypeScript, React, Semantic UI, SCSS, custom CSS, Tillståndshantering med MobX, hämta/skicka data via API/Controllers m.m.
     </div>
@@ -68,7 +68,7 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
         <div>
             <span class="badge bg-secondary">Försvarsmakten (Systemanalytiker)</span></h3>
-            <u><br>Januari 2020-nu (Nuvarande)<br></u>
+            <u><br>Januari 2020-nu <b style="color:green;">(Nuvarande)</b><br></u>
             Applikationsansvarig & funktionsexpert för Försvarsmaktens intranät (SharePoint).<br><br>
             Ledande roll i kravarbete och utveckling vid förändringar samt leder och genomför sprintar (Ref. Agilt arbetssätt). Felsöka och identifiera lösningar för uppkomna incidenter.<br><br>
             Backlogghantering, Releaseplanering, Incidenthantering, Ansvarar för att alla delar I applikationerna överensstämmer med Försvarsmaktens regelverk.<br><br> 
@@ -78,7 +78,7 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
         <div>
         <span class="badge bg-secondary">Niborium (Musikproducent och låtskrivare)</span></h3>
-            <u><br> 2018-nu (Fritid/Hobby)<br></u>
+            <u><br>2018-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
             Musikproducent och låtskrivare sedan 2018, gjort egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
             Har lyckats nått miljontals streams och följare runtom hela världen. Producerar house, psytrance, trance, dubstep, pop och hiphop/rap.
             Jag är även ghostproducer och producerar musik åt andra artister.
@@ -87,7 +87,7 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
         <div>
             <span class="badge bg-secondary">D Good Company LTD (Bolagsdirektör och utvecklare)</span></h3>
-            <u><br> Aug 2012-Juli 2021 (Avslutad)<br></u>
+            <u><br> Aug 2012-Juli 2021 <b style="color:red;">(Avslutad)</b><br></u>
             D Good Company LTD var ett engelska LTD-företag baserat i London,
             71-75 Shelton Street, Covent Garden (Storbritannien).<br><br>
             D Good Company LTD var ett multinationellt bolag i Storbritannien som specialiserade sig på utveckling/förvaltning av IT-tjänster.
@@ -96,7 +96,7 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
         <div>
             <span class="badge bg-secondary">Region Västmanland (Applikationskonsult)</span></h3>
-            <u><br> Mars 2017-Jan 2020 (Avslutad)<br></u>
+            <u><br> Mars 2017-Jan 2020 <b style="color:red;">(Avslutad)</b><br></u>
             Arbetade i Office 365-gruppen på Region Västmanland.<br>
             Mitt fokusområde var SharePoint där jag jobbade med Business Logic lösningar (i form av
             InfoPath, automatiserade arbetsflöden och dynamiska formulär).<br><br>
@@ -109,12 +109,12 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
         <div>
             <span class="badge bg-secondary">Mälardalens Högskola (Systemansvarig & Förvaltare för Office365/SharePoint)</span></h3>
-            <u><br> Aug 2016-Mars 2017 (Avslutad)<br></u>
+            <u><br> Aug 2016-Mars 2017 <b style="color:red;">(Avslutad)</b><br></u>
             Arbetade med Skype för Business, OneDrive för Business, SharePoint, Exchange, Yammer, Delve, Sway, Office Online, OneNote och Azure.<br><br>
             Arbetade med underhåll, support, dokumentation och utbildning.<br><br>
 
             <span class="badge bg-secondary">Mälardalens Högskola (Supporttekniker/Onsite tekniker, First & Second line)</span></h3>
-            <u><br> Juni 2011–Aug 2016 (Avslutad)<br></u>
+            <u><br> Juni 2011–Aug 2016 <b style="color:red;">(Avslutad)</b><br></u>
             Arbetade som supporttekniker, första och andra linjen.<br>
             * AD Administration + NDS Administration.<br>
             * Fjärrstöd / Fjärrkontroll (DameWare).<br>
@@ -137,7 +137,7 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
     <div>
         <span class="badge bg-secondary">Uniflex IT-Konsult (Tele2 Support)</span></h3>
-        <u><br> 2010-2011 (Avslutad)<br></u>
+        <u><br> 2010-2011 <b style="color:red;">(Avslutad)</b><br></u>
         Jobbade på Transcom i Kungsör för Tele2’s tekniska support.
         Vi hade support på ADSL, Kabel, Stadsnät, Kabel och LAN förbindelser och felsökning kring detta. Felsökning av förbindelser, Zyxel routrar, bredbandstelefoni m.m.<br>
     </div>
