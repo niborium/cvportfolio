@@ -88,7 +88,9 @@ function Arbetslivserfarenhet() {
             <u><br>2018-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
             Musikproducent och låtskrivare sedan 2018, gjort egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
             Har lyckats nått miljontals streams och följare runtom hela världen. Producerar house, psytrance, trance, dubstep, pop och hiphop/rap.
-            Jag är även ghostproducer och producerar musik åt andra artister.
+            Jag är även ghostproducer och producerar musik åt andra artister.<br><br>
+            * Nått 70+ miljoner streams på Soundcloud.<br>
+            * Nått 4+ miljoner streams på Spotify
         </div>
     </div>
     <div class="flex-Arblf">
