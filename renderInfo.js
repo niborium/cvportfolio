@@ -94,7 +94,7 @@ function Arbetslivserfarenhet() {
     </div>
     <div class="flex-Arblf">
         <div>
-            <span class="badge bg-secondary">D Good Company LTD (Bolagsdirektör och utvecklare)</span></h3>
+            <span class="badge bg-secondary" style='white-space: normal !important'>D Good Company LTD (Bolagsdirektör och utvecklare)</span></h3>
             <u><br> Aug 2012-Juli 2021 <b style="color:red;">(Avslutad)</b><br></u>
             D Good Company LTD var ett engelska LTD-företag baserat i London,
             71-75 Shelton Street, Covent Garden (Storbritannien).<br><br>
@@ -115,13 +115,13 @@ function Arbetslivserfarenhet() {
         </div>
     </div>
     <div class="flex-Arblf">
-        <div>
-            <span class="badge bg-secondary">Mälardalens Högskola (Systemansvarig & Förvaltare för Office365/SharePoint)</span></h3>
+        <div style='width: 5em'>
+            <span class="badge bg-secondary" style='white-space: normal !important'>Mälardalens Högskola (Systemansvarig & Förvaltare för Office365/SharePoint)</span></h3>
             <u><br> Aug 2016-Mars 2017 <b style="color:red;">(Avslutad)</b><br></u>
             Arbetade med Skype för Business, OneDrive för Business, SharePoint, Exchange, Yammer, Delve, Sway, Office Online, OneNote och Azure.<br><br>
             Arbetade med underhåll, support, dokumentation och utbildning.<br><br>
 
-            <span class="badge bg-secondary">Mälardalens Högskola (Supporttekniker/Onsite tekniker, First & Second line)</span></h3>
+            <span class="badge bg-secondary" style='white-space: normal !important'>Mälardalens Högskola (Supporttekniker/Onsite tekniker, First & Second line)</span></h3>
             <u><br> Juni 2011–Aug 2016 <b style="color:red;">(Avslutad)</b><br></u>
             Arbetade som supporttekniker, första och andra linjen.<br>
             * AD Administration + NDS Administration.<br>
@@ -243,12 +243,12 @@ function Pok() {
     <embed src="resources/resume.png" height="5%" width="5%">
     <p>
     <div class="flex-Port">
-        <div> 
+        <div style='width: 19em'> 
             <u><b>Kunskaper inom</b></u><br>
             <span class="badge bg-secondary">Webbutveckling & Systemutveckling</span></h6>
             <span class="badge bg-secondary">Objektorienterad programmering (OOP)</span></h6>
-            <span class="badge bg-secondary">Scrum & SAFe (Scaled Agile Framework)</span></h6>
-            <span class="badge bg-secondary">Enhetstester (xUnit, MSTest) / Testdriven utveckling (TDD)</span></h6>
+            <span class="badge bg-secondary">Scrum & SAFe (Scaled Agile Framework)</span></h6><br>
+            <span class="badge bg-secondary">Enhetstester (xUnit, MSTest) <br>/ Testdriven utveckling (TDD)</span></h6>
             <br><br>
             
             <u><b>Front-end:</b></u><br>
