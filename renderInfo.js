@@ -46,10 +46,9 @@ function Ommig() {
     <div class="flex-about-ovrigt">
         <div><b><u>Bakgrund</u><br> </b>Utbildad inom Systemvetenskap på IT-gymnasiet Västerås och Webbutvecklare .NET på Tekniska Högskolan i Jönköping - Jönköping University).<br><br> 
         Har sedan 2010 arbetat i IT-branschen inom diverse roller (first line, second line, dispatcher, IT-tekniker, systemförvaltare/analytiker och en del med utveckling).<br><br>
-        <b><u>Vad jag söker</u></b><br>
-        Söker arbetsgivare inom närområdet (Västmanlands län, Örebro, Eskilstuna och eventuellt Borlänge) alternativt arbetsgivare som erbjuder distans/hybrid som är i behov av utvecklare.<br><br>
-        En arbetsgivare som kan bidra till min personliga utveckling med trevliga kollegor som gör arbetsdagarna roliga och givande. 
-        Om ni ser min profil som intressant så vänligen hör av er till mig via kontaktvägarna ovan.</div>
+        <b><u>Öppen för erbjudanden</u></b><br>
+        Söker inte för tillfället nytt arbete men är alltid öppen för erbjudanden inom närområdet (Västmanlands län, Örebro, Eskilstuna och eventuellt Borlänge) alternativt arbetsgivare som erbjuder distans/hybrid.<br><br>
+        Om ni ser min profil som intressant och en tjänst som kan passa min profil så hör gärna av er till mig via kontaktvägarna ovan för eventuella erbjudanden.</div>
     </div>
     </p>
     `;
