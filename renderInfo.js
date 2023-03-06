@@ -60,7 +60,7 @@ function Arbetslivserfarenhet() {
     <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare) - Praktik</span></h3>
         <u><br>Januari 2023-02-20-2023-06-04 <b style="color:green;">(Nuvarande)</b><br></u>
-        Webbutveckling
+        Som del av mina studier gör jag min andra praktikperiod (LIA) hos Infrobric Fleet fram tills examen för mina studier. Arbetet innefattar React, TypeScript, MobX & .NET
     </div>
     </div>
     <div class="flex-Arblf">
