@@ -4,6 +4,7 @@ const ArbetslivserfarenhetContent = document.getElementById('Arblfstart');
 const UtbildningContent = document.getElementById('Utbstart');
 const CouContent = document.getElementById('Coustart');
 const PokContent = document.getElementById('Portstart');
+const AkaContent = document.getElementById('Akastart');
 
 function Intro() {
   IntroContent.innerHTML = `
@@ -367,4 +368,16 @@ function Pok() {
     </p>
 `;
 }
-export { Intro, Ommig, Arbetslivserfarenhet, Utbildning, Cou, Pok };
+function Aka() {
+  AkaContent.innerHTML = `
+<div class="flex-Port">
+<div>
+    <u><b>Akademiska publikationer</b></u><br>
+    Inga publicerade publikationer ännu.
+    <br><br<br><br>
+    Kommande: Migrering av en Sencha Ext JS-baserad webbapplikation till React (Examensarbete)
+</div>      
+</div>
+    `;
+}
+export { Intro, Ommig, Arbetslivserfarenhet, Utbildning, Cou, Pok, Aka };
