@@ -59,9 +59,26 @@ function Arbetslivserfarenhet() {
     <embed src="resources/we.png" height="5%" width="5%">
     <div class="flex-Arblf">
     <div>
+        <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare)</span></h3>
+        <u><br>Januari 2023-06-05- <b style="color:grey;">(Kommande)</b><br></u>
+        Anställning som Systemutvecklare hos Infobric Fleet påbörjas efter min examen från Tekniska Högskolan i Jönköping - Jönköping University.
+    </div>
+    </div>
+    <div class="flex-Arblf">
+    <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare) - Praktik</span></h3>
         <u><br>Januari 2023-02-20-2023-06-04 <b style="color:green;">(Nuvarande)</b><br></u>
         Som del av mina studier gör jag min andra praktikperiod (LIA) hos Infrobric Fleet fram tills examen för mina studier. Arbetet innefattar React, TypeScript, MobX & .NET
+    </div>
+    </div>
+    <div class="flex-Arblf">
+    <div>
+    <span class="badge bg-secondary">Niborium (Musikproducent och låtskrivare)</span></h3>
+        <u><br>2018-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
+        Musikproducent och låtskrivare sedan 2018, gjort egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
+        Har lyckats nått miljontals streams och följare runtom hela världen. Producerar house, psytrance, trance, dubstep, pop och hiphop/rap.
+        Jag är även ghostproducer och producerar musik åt andra artister.<br><br>
+        Min musik finns på flesta streaming tjänsterna under mitt artistnamn Niborium.
     </div>
     </div>
     <div class="flex-Arblf">
@@ -75,21 +92,11 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
         <div>
             <span class="badge bg-secondary">Försvarsmakten (Systemanalytiker)</span></h3>
-            <u><br>Januari 2020-nu <b style="color:green;">(Nuvarande)</b><br></u>
+            <u><br>Januari 2020-2023-06 <b style="color:red;">(Avslutad)</b><br></u>
             Applikationsansvarig & funktionsexpert för Försvarsmaktens intranät (SharePoint).<br><br>
             Ledande roll i kravarbete och utveckling vid förändringar samt leder och genomför sprintar (Ref. Agilt arbetssätt). Felsöka och identifiera lösningar för uppkomna incidenter.<br><br>
             Backlogghantering, Releaseplanering, Incidenthantering, Ansvarar för att alla delar I applikationerna överensstämmer med Försvarsmaktens regelverk.<br><br> 
             Arbetar med att förbättra och förenkla rutiner och arbetssätt inom systemförvaltningen.  
-        </div>
-    </div>
-    <div class="flex-Arblf">
-        <div>
-        <span class="badge bg-secondary">Niborium (Musikproducent och låtskrivare)</span></h3>
-            <u><br>2018-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-            Musikproducent och låtskrivare sedan 2018, gjort egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
-            Har lyckats nått miljontals streams och följare runtom hela världen. Producerar house, psytrance, trance, dubstep, pop och hiphop/rap.
-            Jag är även ghostproducer och producerar musik åt andra artister.<br><br>
-            Min musik finns på flesta streaming tjänsterna under mitt artistnamn Niborium.
         </div>
     </div>
     <div class="flex-Arblf">
