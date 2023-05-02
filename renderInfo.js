@@ -385,6 +385,7 @@ function Aka() {
     Kommande: Migrering av en Sencha Ext JS-baserad webbapplikation till React (Examensarbete)
     <br><br<br><br>
     <u><b>Forskningsrapporter</b></u><br>
+    <a href="https://docs.google.com/document/d/19uRkiB1D1iCpJM2vbRWxKp2lXbErUxWe5MC6EmR-ryE/edit?usp=sharing" style="text-decoration: none;">MobX state management simplified - Written and researched by Robin Karlsson (2023-05-02)</a><br><br>
     <a href="https://docs.google.com/document/d/19sxtPI4e5SXjcni4Cp0GjXO8zHDdSO4qv-iBzXcqwzw/edit?usp=sharing" style="text-decoration: none;">Lattice-based cryptography with C# and .NET - Written and researched by Robin Karlsson (2023-04-04)</a>
 </div>      
 </div>
