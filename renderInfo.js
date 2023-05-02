@@ -92,7 +92,7 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
         <div>
             <span class="badge bg-secondary">Försvarsmakten (Systemanalytiker)</span></h3>
-            <u><br>Januari 2020-2023-06 <b style="color:red;">(Avslutad)</b><br></u>
+            <u><br>Januari 2020-Maj 2023 <b style="color:red;">(Avslutad)</b><br></u>
             Applikationsansvarig & funktionsexpert för Försvarsmaktens intranät (SharePoint).<br><br>
             Ledande roll i kravarbete och utveckling vid förändringar samt leder och genomför sprintar (Ref. Agilt arbetssätt). Felsöka och identifiera lösningar för uppkomna incidenter.<br><br>
             Backlogghantering, Releaseplanering, Incidenthantering, Ansvarar för att alla delar I applikationerna överensstämmer med Försvarsmaktens regelverk.<br><br> 
