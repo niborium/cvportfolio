@@ -387,6 +387,7 @@ function Aka() {
     <u><b>Forskningsrapporter</b></u><br>
     <a href="https://docs.google.com/document/d/19sxtPI4e5SXjcni4Cp0GjXO8zHDdSO4qv-iBzXcqwzw/edit?usp=sharing" style="text-decoration: none;">Lattice-based cryptography with C# and .NET - Written and researched by Robin Karlsson (2023-04-04)</a><br><br>
     <u><b>Guider</b></u><br>
+    <a href="https://docs.google.com/document/d/1FZeU6CyZfLhHvcaBSK2Pvp7EN7uxC4d9GD7DYDaH0WM/edit?usp=sharing" style="text-decoration: none;">React common design patterns - Written by Robin Karlsson (2023-05-03)</a><br><br>
     <a href="https://docs.google.com/document/d/143kmoXyrdM8BXyAhGXKzLF4eBIQFFtV9S_pONTte3Yk/edit?usp=sharing" style="text-decoration: none;">React useEffect simplified - Written by Robin Karlsson (2023-05-03)</a><br><br>
     <a href="https://docs.google.com/document/d/1nflrzSXO4p-EdZanNhD6rwx8UsgUq8BO0DoU0fuxLTY/edit?usp=sharing" style="text-decoration: none;">React hooks in simple language - Written by Robin Karlsson (2023-05-03)</a><br><br>
     <a href="https://docs.google.com/document/d/19uRkiB1D1iCpJM2vbRWxKp2lXbErUxWe5MC6EmR-ryE/edit?usp=sharing" style="text-decoration: none;">MobX state management simplified - Written by Robin Karlsson (2023-05-02)</a><br><br>
