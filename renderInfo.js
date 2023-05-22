@@ -380,10 +380,8 @@ function Aka() {
 <div class="flex-Port">
 <div>
     <u><b>Akademiska publikationer</b></u><br>
-    Inga publicerade publikationer ännu.
-    <br><br<br><br>
-    Kommande: Migrering av en Sencha Ext JS-baserad webbapplikation till React (Examensarbete)
-    <br><br<br><br>
+    <a href="https://drive.google.com/file/d/1Ys-J7Zp5OhNIZ9goS9AETvSaEl1Tn_kF/view?usp=sharing" style="text-decoration: none;">Migrering av en Sencha Ext JS-baserad webbapplikation till React (Robin Karlsson)</a><br><br>
+    <br>
     <u><b>Forskningsrapporter</b></u><br>
     <a href="https://docs.google.com/document/d/19sxtPI4e5SXjcni4Cp0GjXO8zHDdSO4qv-iBzXcqwzw/edit?usp=sharing" style="text-decoration: none;">Lattice-based cryptography with C# and .NET - Written and researched by Robin Karlsson (2023-04-04)</a><br><br>
     <u><b>Guider</b></u><br>
