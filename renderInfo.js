@@ -70,14 +70,14 @@ function Arbetslivserfarenhet() {
     <div class="flex-Arblf">
     <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare)</span></h3>
-        <u><br>Januari 2023-06-05- <b style="color:grey;">(Kommande)</b><br></u>
-        Anställning som Systemutvecklare hos Infobric Fleet påbörjas efter min examen från Tekniska Högskolan i Jönköping - Jönköping University.
+        <u><br>Januari 2023-06-05- <b style="color:green;">(Nuvarande)</b><br></u>
+        Systemutvecklare inom React, TypeScript, MobX, .NET m.m.
     </div>
     </div>
     <div class="flex-Arblf">
     <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare) - Praktik</span></h3>
-        <u><br>Januari 2023-02-20-2023-06-04 <b style="color:green;">(Nuvarande)</b><br></u>
+        <u><br>Januari 2023-02-20-2023-06-02 <b style="color:red;">(Nuvarande)</b><br></u>
         Som del av mina studier gör jag min andra praktikperiod (LIA) hos Infrobric Fleet fram tills examen för mina studier. Arbetet innefattar React, TypeScript, MobX & .NET
     </div>
     </div>
