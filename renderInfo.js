@@ -252,13 +252,14 @@ function Pok() {
     <div class="flex-Port">
         <div style='width: 19em'> 
             <u><b>Kunskaper inom</b></u><br>
-            <span class="badge bg-secondary">Webbutveckling & Systemutveckling</span></h6>
+            <span class="badge bg-secondary">Webbutveckling & Systemutveckling</span></h6><br>
+            <span class="badge bg-secondary">Mobilutveckling (React Native)</span></h6>
             <span class="badge bg-secondary">Objektorienterad programmering (OOP)</span></h6>
             <span class="badge bg-secondary">Scrum & SAFe (Scaled Agile Framework)</span></h6><br>
             <span class="badge bg-secondary">Enhetstester (xUnit, MSTest) <br>/ Testdriven utveckling (TDD)</span></h6>
             <br><br>
             
-            <u><b>Front-end:</b></u><br>
+            <u><b>Frontend:</b></u><br>
             <span class="badge bg-secondary">React</span></h6>
             <span class="badge bg-secondary">TypeScript</span></h6>
             <span class="badge bg-secondary">JavaScript</span></h6>
@@ -272,7 +273,7 @@ function Pok() {
             <span class="badge bg-secondary">Semantic UI</span></h6>
             <br><br>
 
-            <u><b>Backend-end:</b></u><br>
+            <u><b>Backend:</b></u><br>
             <span class="badge bg-secondary">.NET</span></h6>
             <span class="badge bg-secondary">WEB API & REST</span></h6>
             <span class="badge bg-secondary">MVC</span></h6>
@@ -286,11 +287,17 @@ function Pok() {
 
             <span class="badge bg-secondary">Node.js</span></h6>
             <span class="badge bg-secondary">Express</span></h6>
+            <span class="badge bg-secondary">Mongoose</span></h6>
             <br><br>
 
             <span class="badge bg-secondary">SQL</span></h6>
             <span class="badge bg-secondary">SQLite</span></h6>
             <span class="badge bg-secondary">InMemory Database Provider</span></h6>
+            <span class="badge bg-secondary">MongoDB / MongoDB Atlas</span></h6>
+            <br><br>
+
+            <u><b>Mobilutveckling:</b></u><br>
+            <span class="badge bg-secondary">React Native / Expo</span></h6>
             <br><br>
 
             <u><b>Programmeringsspråk:</b></u><br>
