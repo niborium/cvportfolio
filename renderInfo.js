@@ -264,6 +264,7 @@ function Pok() {
             <span class="badge bg-secondary">TypeScript</span></h6>
             <span class="badge bg-secondary">JavaScript</span></h6>
             <span class="badge bg-secondary">Blazor WebAssembly (WASM)</span></h6>
+            <span class="badge bg-secondary">Ext JS</span></h6>
             <span class="badge bg-secondary">Tillståndshantering (Context, Redux & MobX)</span></h6>
             <span class="badge bg-secondary">HTML5</span></h6>
             <span class="badge bg-secondary">CSS3</span></h6>
