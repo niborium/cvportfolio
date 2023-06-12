@@ -71,7 +71,7 @@ function Arbetslivserfarenhet() {
     <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare)</span></h3>
         <u><br>Januari 2023-06-05- <b style="color:green;">(Nuvarande)</b><br></u>
-        Systemutvecklare inom React, TypeScript, MobX, .NET m.m.
+        Systemutvecklare inom  React, Ext JS, TypeScript, MobX, .NET & SQL m.m.
     </div>
     </div>
     <div class="flex-Arblf">
