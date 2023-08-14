@@ -69,8 +69,16 @@ function Arbetslivserfarenhet() {
     <embed src="resources/we.png" height="5%" width="5%">
     <div class="flex-Arblf">
     <div>
+        <span class="badge bg-secondary">Preflame (Grundare & Systemutvecklare)</span></h3>
+        <u><br>Augusti 2023-08-08 <b style="color:green;">(Hobby)</b><br></u>
+        Hobbyprojekt vid sidan av mitt ordinarie arbete. Mobilapplikation för iOS & Android med stöd för privata chattar, gruppchattar och global feed för publika inlägg (likt Twitter).<br><br>
+        Byggt med React Native (Expo), autentisering med Firebase Auth (Mobil nummer/OTP) med Node.js/Express.js backend och PostgreSQL databas. In-app betalningar (IAP) och annonser (AdMob).
+    </div>
+    </div>
+    <div class="flex-Arblf">
+    <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare)</span></h3>
-        <u><br>Januari 2023-06-05- <b style="color:green;">(Nuvarande)</b><br></u>
+        <u><br>Januari 2023-06-05 <b style="color:green;">(Nuvarande)</b><br></u>
         Systemutvecklare inom  React, Ext JS, TypeScript, MobX, .NET & SQL m.m.
     </div>
     </div>
