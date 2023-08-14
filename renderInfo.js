@@ -13,6 +13,7 @@ function Intro() {
     <img src="resources/giphy.gif">
     <h2>ROBIN KARLSSON</h2>
     <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
+    <p>Grundare & Systemutvecklare @ <a href="https://preflame.com/" style='text-decoration: none;'>Preflame</a> (Hobby)</p>
     </div><br>
     <div class="inline-block">
     <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
