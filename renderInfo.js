@@ -72,9 +72,7 @@ function Arbetslivserfarenhet() {
     <div>
         <span class="badge bg-secondary">Preflame (Grundare & Systemutvecklare)</span></h3>
         <u><br>Augusti 2023-08-08 <b style="color:green;">(Hobby)</b><br></u>
-        Hobbyprojekt vid sidan av mitt ordinarie arbete. Mobilapplikation för iOS & Android med stöd för privata chattar, gruppchattar och global feed för publika inlägg (likt Twitter).<br><br>
-        Byggt med React Native (Expo), autentisering med Firebase Auth (Mobil nummer/OTP) med Node.js/Express.js backend och PostgreSQL databas. In-app betalningar (IAP) och annonser (AdMob).
-    </div>
+        Preflame är ett arkbyggarverktyg (Gang sheet builder) specifikt för screentrycksnischen som gör det möjligt för användare att ordna flera kopior av en enda design på ett ark, vilket optimerar utrymmet, minimerar materialspill och minskar kostnaderna.    </div>
     </div>
     <div class="flex-Arblf">
     <div>
