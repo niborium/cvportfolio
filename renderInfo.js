@@ -72,7 +72,7 @@ function Arbetslivserfarenhet() {
     <div>
         <span class="badge bg-secondary">Preflame (Grundare & Systemutvecklare)</span></h3>
         <u><br>Augusti 2023-08-08 <b style="color:green;">(Hobby)</b><br></u>
-        Preflame är ett arkbyggarverktyg (Gang sheet builder) specifikt för screentrycksnischen som gör det möjligt för användare att ordna flera kopior av flera uppladdade designer/bilder på ett ark, vilket optimerar utrymmet, minimerar materialspill och minskar kostnaderna.<br>
+        Preflame är Micro-SaaS-plattform som tillhandahåller arkbyggarverktyg (Gang sheet builder) specifik för DTF-nischen (Direct to film) som gör det möjligt för användare att ordna flera kopior av flera uppladdade designer/bilder på ett ark, vilket optimerar utrymmet, minimerar materialspill och minskar kostnaderna.<br>
         Webbgränsnitt & WordPress plugin.
     </div>
     </div>
