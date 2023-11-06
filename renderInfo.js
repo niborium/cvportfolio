@@ -403,7 +403,7 @@ function Aka() {
     <u><b>Forskningsrapporter</b></u><br>
     <a href="https://docs.google.com/document/d/19sxtPI4e5SXjcni4Cp0GjXO8zHDdSO4qv-iBzXcqwzw/edit?usp=sharing" style="text-decoration: none;">Lattice-based cryptography with C# and .NET - Written and researched by Robin Karlsson (2023-04-04)</a><br><br>
     <u><b>Guider</b></u><br>
-    <a href="https://docs.google.com/document/d/1lHE56qE8gr2fYI1Yfaus84UUIdqW0Phw_vJccuR22mo/edit?usp=sharing" style="text-decoration: none;">Lua - Introduction (22 reserved keywords with examples, tables - data structuring mechanism, built basic REST API with Milua) - Written by Robin Karlsson (2023-11-06)</a><br><br>
+    <a href="https://docs.google.com/document/d/1lHE56qE8gr2fYI1Yfaus84UUIdqW0Phw_vJccuR22mo/edit?usp=sharing" style="text-decoration: none;">Lua - Introduction (22 reserved keywords with examples, tables - data structuring mechanism, luarocks - package manager, build basic REST API with Milua) - Written by Robin Karlsson (2023-11-06)</a><br><br>
     <a href="https://docs.google.com/document/d/1BHXGSTj4_Xm5eWS_K-R01Ez2NOv2i72jkWixm43OzZ8/edit?usp=sharing" style="text-decoration: none;">A Guide to React Props and State Management - Written by Robin Karlsson (2023-07-12)</a><br><br>
     <a href="https://docs.google.com/document/d/1FZeU6CyZfLhHvcaBSK2Pvp7EN7uxC4d9GD7DYDaH0WM/edit?usp=sharing" style="text-decoration: none;">React common design patterns - Written by Robin Karlsson (2023-05-03)</a><br><br>
     <a href="https://docs.google.com/document/d/143kmoXyrdM8BXyAhGXKzLF4eBIQFFtV9S_pONTte3Yk/edit?usp=sharing" style="text-decoration: none;">React useEffect simplified - Written by Robin Karlsson (2023-05-03)</a><br><br>
