@@ -314,6 +314,7 @@ function Pok() {
             <span class="badge bg-secondary">C#</span></h6>
             <span class="badge bg-secondary">JavaScript</span></h6>
             <span class="badge bg-secondary">TypeScript</span></h6>
+            <span class="badge bg-secondary">Lua</span></h6>
             <span class="badge bg-secondary">PowerShell</span></h6>
             <br><br>
         
