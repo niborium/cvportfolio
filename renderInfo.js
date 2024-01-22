@@ -13,7 +13,6 @@ function Intro() {
     <img src="resources/giphy.gif">
     <h2>ROBIN KARLSSON</h2>
     <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
-    <p>Grundare & Systemutvecklare @ <a href="https://preflame.com/" style='text-decoration: none;'>Preflame</a> (Hobby)</p>
     </div><br>
     <div class="inline-block">
     <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
@@ -68,14 +67,6 @@ function Ommig() {
 function Arbetslivserfarenhet() {
   ArbetslivserfarenhetContent.innerHTML = `
     <embed src="resources/we.png" height="5%" width="5%">
-    <div class="flex-Arblf">
-    <div>
-        <span class="badge bg-secondary">Preflame (Grundare & Systemutvecklare)</span></h3>
-        <u><br>Augusti 2023-08-08 <b style="color:green;">(Hobby)</b><br></u>
-        Preflame är Micro-SaaS-plattform som tillhandahåller arkbyggarverktyg (Gang sheet builder) specifik för DTF-nischen (Direct to film) som gör det möjligt för användare att ordna flera kopior av flera uppladdade designer/bilder på ett ark, vilket optimerar utrymmet, minimerar materialspill och minskar kostnaderna.<br>
-        Webbgränsnitt & WordPress plugin.
-    </div>
-    </div>
     <div class="flex-Arblf">
     <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare)</span></h3>
