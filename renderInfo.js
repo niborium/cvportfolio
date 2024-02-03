@@ -14,6 +14,7 @@ function Intro() {
     <h2>ROBIN KARLSSON</h2>
     <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
     <p>Systemutvecklare & Grundare @ <a href="https://arboga.app" style='text-decoration: none;'>Arboga.app</a></p>
+    <p>Musikproducent & Låtskrivare @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
     <div class="inline-block">
     <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
