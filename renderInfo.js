@@ -13,7 +13,7 @@ function Intro() {
     <img src="resources/giphy.gif">
     <h2>ROBIN KARLSSON</h2>
     <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
-    <p>Systemutvecklare & Grundare @ <a href="https://arboga.app" style='text-decoration: none;'>Arboga.app</a></p>
+    <p>Systemutvecklare & Grundare @ <a href="https://hydrabird.com" style='text-decoration: none;'>Hydrabird</a></p>
     <p>Musikproducent & Låtskrivare @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
     <div class="inline-block">
@@ -275,6 +275,7 @@ function Pok() {
             <span class="badge bg-secondary">Bootstrap</span></h6>
             <span class="badge bg-secondary">Bulma</span></h6>
             <span class="badge bg-secondary">Semantic UI</span></h6>
+            <span class="badge bg-secondary">Material UI (MUI)</span></h6>
             <br><br>
 
             <u><b>Backend:</b></u><br>
@@ -287,6 +288,9 @@ function Pok() {
             <span class="badge bg-secondary">Entity Framework</span></h6>
             <span class="badge bg-secondary">Identity Core</span></h6>
             <span class="badge bg-secondary">SignalR</span></h6>
+            <br><br>
+
+            <span class="badge bg-secondary">Fiber framework (Go)</span></h6>
             <br><br>
 
             <span class="badge bg-secondary">Node.js</span></h6>
@@ -306,8 +310,9 @@ function Pok() {
 
             <u><b>Programmeringsspråk:</b></u><br>
             <span class="badge bg-secondary">C#</span></h6>
-            <span class="badge bg-secondary">JavaScript</span></h6>
             <span class="badge bg-secondary">TypeScript</span></h6>
+            <span class="badge bg-secondary">JavaScript</span></h6>
+            <span class="badge bg-secondary">Go</span></h6>
             <span class="badge bg-secondary">Lua</span></h6>
             <span class="badge bg-secondary">PowerShell</span></h6>
             <br><br>
@@ -333,6 +338,7 @@ function Pok() {
 
             <u><b>Hosting & Cloud platforms</u></b><br>
             <span class="badge bg-secondary">Vercel</span></h6>
+            <span class="badge bg-secondary">Netlify</span></h6>
             <span class="badge bg-secondary">Contabo</span></h6>
             <span class="badge bg-secondary">Digital Ocean</span></h6>
             <span class="badge bg-secondary">Linode</span></h6>
