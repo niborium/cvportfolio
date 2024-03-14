@@ -403,6 +403,7 @@ function Aka() {
     <u><b>Forskningsrapporter</b></u><br>
     <a href="https://docs.google.com/document/d/19sxtPI4e5SXjcni4Cp0GjXO8zHDdSO4qv-iBzXcqwzw/edit?usp=sharing" style="text-decoration: none;">Lattice-based cryptography with C# and .NET - Written and researched by Robin Karlsson (2023-04-04)</a><br><br>
     <u><b>Guider</b></u><br>
+    <a href="https://docs.google.com/document/d/1Hj2N29nYzp9QlwcRQoY8b1QILFrcs2mq/edit?usp=sharing&ouid=101989383758628553236&rtpof=true&sd=true" style="text-decoration: none;">React-handbook - (English react crash course) - Written by Robin Karlsson (2024-02-14)</a><br><br>
     <a href="https://docs.google.com/document/d/1MMAv2hC8QoRute1nw7HoMUxsAT_naJpkm6p2RBL7fuk/edit?usp=sharing" style="text-decoration: none;">React-handboken - (Swedish react crash course) - Written by Robin Karlsson (2024-02-14)</a><br><br>
     <a href="https://docs.google.com/document/d/1lHE56qE8gr2fYI1Yfaus84UUIdqW0Phw_vJccuR22mo/edit?usp=sharing" style="text-decoration: none;">Lua - Introduction (22 reserved keywords with examples, tables - data structuring mechanism, luarocks - package manager, build basic REST API with Milua) - Written by Robin Karlsson (2023-11-06)</a><br><br>
     <a href="https://docs.google.com/document/d/1BHXGSTj4_Xm5eWS_K-R01Ez2NOv2i72jkWixm43OzZ8/edit?usp=sharing" style="text-decoration: none;">A Guide to React Props and State Management - Written by Robin Karlsson (2023-07-12)</a><br><br>
