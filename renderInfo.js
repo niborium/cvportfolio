@@ -339,6 +339,7 @@ function Pok() {
             <u><b>Hosting & Cloud platforms</u></b><br>
             <span class="badge bg-secondary">Vercel</span></h6>
             <span class="badge bg-secondary">Netlify</span></h6>
+            <span class="badge bg-secondary">Railway</span></h6>
             <span class="badge bg-secondary">Contabo</span></h6>
             <span class="badge bg-secondary">Digital Ocean</span></h6>
             <span class="badge bg-secondary">Linode</span></h6>
