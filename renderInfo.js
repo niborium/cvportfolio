@@ -319,6 +319,7 @@ function Pok() {
         
             <u><b>Övrigt:</b></u><br>
             <span class="badge bg-secondary">GIT</span></h6>
+
             <span class="badge bg-secondary">Repository Pattern & SOLID Design Principles</span></h6>
             <span class="badge bg-secondary">Monolithic & Microservice Architecture</span></h6>
             <span class="badge bg-secondary">Automapper</span></h6>
@@ -328,6 +329,7 @@ function Pok() {
             <span class="badge bg-secondary">Microsoft Authentication Library (MSAL2.0)</span></h6>
             <span class="badge bg-secondary">OAuth2</span></h6>
             <span class="badge bg-secondary">OpenID Connect</span></h6>
+            <span class="badge bg-secondary">Vite</span></h6>
             <span class="badge bg-secondary">Webpack / Babel / Parcel</span></h6>
             <span class="badge bg-secondary">Selenium WebDriver</span></h6>
             <span class="badge bg-secondary">Unified Modeling Language (UML)</span></h6>
