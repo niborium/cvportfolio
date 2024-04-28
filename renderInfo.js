@@ -56,8 +56,8 @@ function Ommig() {
     <div class="flex-Arblf">
     <div>
     <span class="badge bg-secondary">Niborium (Musikproducent och låtskrivare)</span></h3>
-        <u><br>2018-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-        Musikproducent och låtskrivare sedan 2018, gjort egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
+        <u><br>2017-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
+        Musikproducent och låtskrivare sedan 2017, gjort egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
         Har lyckats nått miljontals streams och följare runtom hela världen. Producerar house, psytrance, trance, dubstep, pop och hiphop/rap.
         Jag är även ghostproducer och producerar musik åt andra artister.<br><br>
         Min musik finns numera exklusivt på  <a href="https://soundcloud.com/niborium" target=“_blank”>Soundcloud</a>.<br>
