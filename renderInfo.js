@@ -295,13 +295,16 @@ function Pok() {
 
             <span class="badge bg-secondary">Node.js</span></h6>
             <span class="badge bg-secondary">Express</span></h6>
-            <span class="badge bg-secondary">Mongoose</span></h6>
+            <span class="badge bg-secondary">Sequelize</span></h6>
             <br><br>
 
-            <span class="badge bg-secondary">SQL</span></h6>
+            <span class="badge bg-secondary">AppWrite (BaaS)</span></h6>
+            <span class="badge bg-secondary">Pocketbase (BaaS)</span></h6>
+            <br><br>
+
+            <span class="badge bg-secondary">SQL / T-SQL</span></h6>
             <span class="badge bg-secondary">SQLite</span></h6>
             <span class="badge bg-secondary">InMemory Database Provider</span></h6>
-            <span class="badge bg-secondary">MongoDB / MongoDB Atlas</span></h6>
             <br><br>
 
             <u><b>Mobilutveckling:</b></u><br>
