@@ -55,6 +55,20 @@ function Ommig() {
     </div>
     <div class="flex-Arblf">
     <div>
+    <span class="badge bg-secondary">Milldawn (Grundare & Systemutvecklare)</span></h3>
+        <u><br>2024-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
+        Milldawn är en edtech-startup som jag grundade 2024. Vi utvecklar en plattform för att hjälpa studenter att landa sitt första jobb som webbutvecklare. 
+        Vi förklarar kärnkoncepten på enkla och interaktiva sätt för att hjälpa dem att förstå. 
+        Vårt innehåll är nybörjarvänligt och vi har ett starkt fokus på inlärningsupplevelsen.
+        <br><br>
+        Web/Frontend:<br> Byggd med React, TypeScript, Material-UI, MobX som tillståndshantering.<br><br>
+        Backend:<br> Self-hosted AppWrite som backend (Auth, Databases, Functions med Node.js runtime, Messaging & Storage).<br><br>
+        Externa tjänster:<br> Inkluderar Stripe för betalningar & Sendgrid för emails.<br><br>
+        Mobil appar:<br> (iOS & Android) är byggt med capacitorjs.<br><br>
+    </div>
+    </div>
+    <div class="flex-Arblf">
+    <div>
     <span class="badge bg-secondary">Niborium (Musikproducent och låtskrivare)</span></h3>
         <u><br>2017-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
         Musikproducent och låtskrivare sedan 2017, gjort egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
@@ -309,6 +323,7 @@ function Pok() {
 
             <u><b>Mobilutveckling:</b></u><br>
             <span class="badge bg-secondary">React Native / Expo</span></h6>
+            <span class="badge bg-secondary">capacitorjs</span></h6>
             <br><br>
 
             <u><b>Programmeringsspråk:</b></u><br>
@@ -339,6 +354,8 @@ function Pok() {
             <span class="badge bg-secondary">Kestrel</span></h6>
             <span class="badge bg-secondary">Linux</span></h6>
             <span class="badge bg-secondary">Apache & Nginx</span></h6>
+            <span class="badge bg-secondary">Stripe</span></h6>
+            <span class="badge bg-secondary">Sendgrid</span></h6>
             <br><br>
 
             <u><b>Hosting & Cloud platforms</u></b><br>
