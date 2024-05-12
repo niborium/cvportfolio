@@ -12,6 +12,8 @@ function Intro() {
 <a class="btn btn-outline-info" href="https://robinkarlsson-se.translate.goog/?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp" role="button">View this site in another language</a><br><br>
     <img src="resources/giphy.gif">
     <h2>ROBIN KARLSSON</h2>
+    <p>Örebro</p>
+    _________________________________________________________________________________________________<br>
     <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
     <p>Grundare & Systemutvecklare @ <a href="https://milldawn.com" style='text-decoration: none;'>Milldawn</a></p>
     <p>Musikproducent & Låtskrivare @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
