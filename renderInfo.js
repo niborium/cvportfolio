@@ -15,7 +15,7 @@ function Intro() {
     <p>Örebro</p>
     _________________________________________________________________________________________________<br>
     <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
-    <p>Grundare & Systemutvecklare @ <a href="https://milldawn.com" style='text-decoration: none;'>Milldawn</a></p>
+    <p>Grundare & Systemutvecklare @ <a href="https://mendudu.com" style='text-decoration: none;'>Mendudu</a></p>
     <p>Musikproducent & Låtskrivare @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
     <div class="inline-block">
@@ -57,16 +57,13 @@ function Ommig() {
     </div>
     <div class="flex-Arblf">
     <div>
-    <span class="badge bg-secondary">Milldawn (Grundare & Systemutvecklare)</span></h3>
+    <span class="badge bg-secondary">Mendudu (Grundare & Systemutvecklare)</span></h3>
         <u><br>2024-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-        Milldawn är en edtech-startup som jag grundade 2024. Vi utvecklar en plattform för att hjälpa studenter att landa sitt första jobb som webbutvecklare. 
-        Vi förklarar kärnkoncepten på enkla och interaktiva sätt för att hjälpa dem att förstå. 
-        Vårt innehåll är nybörjarvänligt och vi har ett starkt fokus på inlärningsupplevelsen.
+        Mendudu är europeisk superapp som grundades 2024 av mig.
         <br><br>
-        Web/Frontend:<br> Byggd med React, TypeScript, Material-UI, MobX som tillståndshantering.<br><br>
+        Mobilapp:<br> Byggd med React Native, TypeScript, Tamagui, MobX som tillståndshantering.<br><br>
         Backend:<br> Self-hosted AppWrite som backend (Auth, Databases, Functions med Node.js runtime, Messaging & Storage).<br><br>
         Externa tjänster:<br> Inkluderar Stripe för betalningar & Sendgrid för emails.<br><br>
-        Mobil appar:<br> (iOS & Android) är byggt med capacitorjs.<br><br>
     </div>
     </div>
     <div class="flex-Arblf">
