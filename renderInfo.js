@@ -16,7 +16,7 @@ function Intro() {
     _________________________________________________________________________________________________<br>
     <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
     <p>Grundare & Systemutvecklare @ <a href="https://mendudu.com" style='text-decoration: none;'>Mendudu</a></p>
-    <p>Musikproducent & Låtskrivare @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
+    <p>Musikproducent & Låtskrivare (retired) @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
     <div class="inline-block">
     <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
@@ -69,9 +69,9 @@ function Ommig() {
     <div class="flex-Arblf">
     <div>
     <span class="badge bg-secondary">Niborium (Musikproducent och låtskrivare)</span></h3>
-        <u><br>2017-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-        Musikproducent och låtskrivare sedan 2017, gjort egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
-        Har lyckats nått miljontals streams och följare runtom hela världen. Producerar house, psytrance, trance, dubstep, pop och hiphop/rap.
+        <u><br>2017-2024 (retired) <b>(Fritid/Hobby)</b><br></u>
+        Musikproducent och låtskrivare sedan 2017 fram till 2024, gjorde egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
+        Har lyckats nått miljontals streams och följare runtom hela världen. Producerar house, electronic, funk, psytrance, trance, dubstep, pop och hiphop/rap.
         Jag är även ghostproducer och producerar musik åt andra artister.<br><br>
         Min musik finns numera exklusivt på  <a href="https://soundcloud.com/niborium" target=“_blank”>Soundcloud</a>.<br>
         Tidigare över 4 miljoner+ streams på Spotify + tidigare Soundcloud profil över 50 miljoner+ streams
