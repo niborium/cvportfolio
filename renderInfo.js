@@ -59,11 +59,8 @@ function Ommig() {
     <div>
     <span class="badge bg-secondary">Mendudu (Grundare & Systemutvecklare)</span></h3>
         <u><br>2024-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-        Mendudu är europeisk superapp som grundades 2024 av mig.
+        Mendudu är ett lätt och enkelt webbramverk skrivet i Lua. Det låter dig ställa in en webbserver, definiera routes för hantering av HTTP-förfrågningar och lägga till middlwares för bearbetning av begäran. Inspirerad av Node.js ger den en händelsedriven arkitektur, vilket gör den effektiv för att hantera asynkrona uppgifter.
         <br><br>
-        Mobilapp:<br> Byggd med React Native, TypeScript, Tamagui, MobX som tillståndshantering.<br><br>
-        Backend:<br> Self-hosted AppWrite som backend (Auth, Databases, Functions med Node.js runtime, Messaging & Storage).<br><br>
-        Externa tjänster:<br> Inkluderar Stripe för betalningar & Sendgrid för emails.<br><br>
     </div>
     </div>
     <div class="flex-Arblf">
