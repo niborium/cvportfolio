@@ -343,6 +343,7 @@ function Pok() {
             <span class="badge bg-secondary">Microsoft Authentication Library (MSAL2.0)</span></h6>
             <span class="badge bg-secondary">OAuth2</span></h6>
             <span class="badge bg-secondary">OpenID Connect</span></h6>
+            <span class="badge bg-secondary">Docker & Kubernetes</span></h6>
             <span class="badge bg-secondary">Vite</span></h6>
             <span class="badge bg-secondary">Webpack / Babel / Parcel</span></h6>
             <span class="badge bg-secondary">Selenium WebDriver</span></h6>
