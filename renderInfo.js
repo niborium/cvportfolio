@@ -279,11 +279,8 @@ function Pok() {
             <span class="badge bg-secondary">Blazor WebAssembly (WASM)</span></h6>
             <span class="badge bg-secondary">Ext JS</span></h6>
             <span class="badge bg-secondary">Tillståndshantering (Context, Redux & MobX)</span></h6>
-            <span class="badge bg-secondary">HTML5</span></h6>
-            <span class="badge bg-secondary">CSS3</span></h6>
-            <span class="badge bg-secondary">SCSS (Sassy CSS)</span></h6>
-            <span class="badge bg-secondary">Bootstrap</span></h6>
-            <span class="badge bg-secondary">Bulma</span></h6>
+            <span class="badge bg-secondary">HTML5, CSS3 & SASS/SCSS</span></h6>
+            <span class="badge bg-secondary">React Bootstrap</span></h6>
             <span class="badge bg-secondary">Semantic UI</span></h6>
             <span class="badge bg-secondary">Material UI (MUI)</span></h6>
             <br><br>
@@ -345,7 +342,7 @@ function Pok() {
             <span class="badge bg-secondary">Docker & Kubernetes</span></h6>
             <span class="badge bg-secondary">Vite</span></h6>
             <span class="badge bg-secondary">Webpack / Babel / Parcel</span></h6>
-            <span class="badge bg-secondary">Selenium WebDriver</span></h6>
+            <span class="badge bg-secondary">Selenium (Automated gui tests + scrapers and bots)</span></h6>
             <span class="badge bg-secondary">Unified Modeling Language (UML)</span></h6>
             <span class="badge bg-secondary">Kestrel</span></h6>
             <span class="badge bg-secondary">Linux</span></h6>
