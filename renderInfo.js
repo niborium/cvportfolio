@@ -84,7 +84,7 @@ function Arbetslivserfarenhet() {
     <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare)</span></h3>
         <u><br>Januari 2023-06-05 <b style="color:green;">(Nuvarande)</b><br></u>
-        Systemutvecklare inom  React, Ext JS, TypeScript, MobX, Material UI, .NET, SQL & Google Maps etc.
+        Systemutvecklare inom  React, Ext JS, TypeScript, MobX, Material UI, .NET, SQ, Google Maps & Automatiserade GUI tester med Selenium etc.
     </div>
     </div>
     <div class="flex-Arblf">
@@ -300,7 +300,7 @@ function Pok() {
             <span class="badge bg-secondary">SignalR</span></h6>
             <br><br>
 
-            <span class="badge bg-secondary">Fiber framework (Go)</span></h6>
+            <span class="badge bg-secondary">Go (Gin, Echo & Fiber)</span></h6>
             <br><br>
 
             <span class="badge bg-secondary">Node.js</span></h6>
@@ -319,7 +319,6 @@ function Pok() {
 
             <u><b>Mobilutveckling:</b></u><br>
             <span class="badge bg-secondary">React Native / Expo</span></h6>
-            <span class="badge bg-secondary">capacitorjs</span></h6>
             <br><br>
 
             <u><b>Programmeringsspråk:</b></u><br>
