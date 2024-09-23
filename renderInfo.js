@@ -59,7 +59,7 @@ function Ommig() {
     <div>
     <span class="badge bg-secondary">Mendudu (Grundare & Systemutvecklare)</span></h3>
         <u><br>2024-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-        Mendudu är ett lätt och enkelt webbramverk skrivet i Lua. Det låter dig ställa in en webbserver, definiera routes för hantering av HTTP-förfrågningar och lägga till middlwares för bearbetning av begäran. Inspirerad av Node.js ger den en händelsedriven arkitektur, vilket gör den effektiv för att hantera asynkrona uppgifter.
+        Mendudu är en kodeditor som är byggd med Go, Fyne & Monaco etc.
         <br><br>
     </div>
     </div>
@@ -84,7 +84,7 @@ function Arbetslivserfarenhet() {
     <div>
         <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare)</span></h3>
         <u><br>Januari 2023-06-05 <b style="color:green;">(Nuvarande)</b><br></u>
-        Systemutvecklare inom  React, Ext JS, TypeScript, MobX, Material UI, .NET, SQ, Google Maps & Automatiserade GUI tester med Selenium etc.
+        Systemutvecklare inom  React, Ext JS, TypeScript, MobX, Material UI, .NET, SQL, Google Maps & Automatiserade GUI tester med Selenium etc.
     </div>
     </div>
     <div class="flex-Arblf">
