@@ -59,7 +59,7 @@ function Ommig() {
     <div>
     <span class="badge bg-secondary">Mendudu (Grundare & Systemutvecklare)</span></h3>
         <u><br>2024-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-        Mendudu är en kodeditor som är byggd med Go, Fyne & Monaco etc.
+        Mendudu är en kodeditor som är byggd med Go, Wails & Monaco Editor etc.
         <br><br>
     </div>
     </div>
