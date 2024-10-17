@@ -15,7 +15,7 @@ function Intro() {
     <p>Örebro</p>
     _________________________________________________________________________________________________<br>
     <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
-    <p>Grundare & Systemutvecklare @ <a href="https://mendudu.com" style='text-decoration: none;'>Mendudu</a></p>
+    <p>Grundare & Systemutvecklare @ <a href="https://youprotect.me" style='text-decoration: none;'>Youprotect.me</a></p>
     <p>Musikproducent & Låtskrivare (retired) @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
     <div class="inline-block">
@@ -57,9 +57,9 @@ function Ommig() {
     </div>
     <div class="flex-Arblf">
     <div>
-    <span class="badge bg-secondary">Mendudu (Grundare & Systemutvecklare)</span></h3>
+    <span class="badge bg-secondary">Youprotect.me (Grundare & Systemutvecklare)</span></h3>
         <u><br>2024-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-        Mendudu är en kodeditor som är byggd med Go, Wails & Monaco Editor etc.
+    Youprotect.me - File upload service that encrypts files, generates short-lived download links and private key. We also provides temporarily private chat rooms
         <br><br>
     </div>
     </div>
