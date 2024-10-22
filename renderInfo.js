@@ -266,7 +266,6 @@ function Pok() {
         <div style='width: 19em'> 
             <u><b>Kunskaper inom</b></u><br>
             <span class="badge bg-secondary">Webbutveckling & Systemutveckling</span></h6><br>
-            <span class="badge bg-secondary">Mobilutveckling (React Native)</span></h6>
             <span class="badge bg-secondary">Objektorienterad programmering (OOP)</span></h6>
             <span class="badge bg-secondary">Scrum & SAFe (Scaled Agile Framework)</span></h6><br>
             <span class="badge bg-secondary">Enhetstester (xUnit, MSTest) <br>/ Testdriven utveckling (TDD)</span></h6>
@@ -276,8 +275,7 @@ function Pok() {
             <span class="badge bg-secondary">React</span></h6>
             <span class="badge bg-secondary">TypeScript</span></h6>
             <span class="badge bg-secondary">JavaScript</span></h6>
-            <span class="badge bg-secondary">Blazor WebAssembly (WASM)</span></h6>
-            <span class="badge bg-secondary">Ext JS</span></h6>
+            <span class="badge bg-secondary">Blazor (WASM)</span></h6>
             <span class="badge bg-secondary">Tillståndshantering (Context, Redux & MobX)</span></h6>
             <span class="badge bg-secondary">HTML5, CSS3 & SASS/SCSS</span></h6>
             <span class="badge bg-secondary">React Bootstrap</span></h6>
@@ -306,16 +304,12 @@ function Pok() {
             <br><br>
 
             <span class="badge bg-secondary">AppWrite (BaaS)</span></h6>
-            <span class="badge bg-secondary">Pocketbase (BaaS)</span></h6>
+            <span class="badge bg-secondary">Coolify</span></h6>
             <br><br>
 
             <span class="badge bg-secondary">SQL / T-SQL</span></h6>
             <span class="badge bg-secondary">SQLite</span></h6>
             <span class="badge bg-secondary">InMemory Database Provider</span></h6>
-            <br><br>
-
-            <u><b>Mobilutveckling:</b></u><br>
-            <span class="badge bg-secondary">React Native / Expo</span></h6>
             <br><br>
 
             <u><b>Programmeringsspråk:</b></u><br>
@@ -352,13 +346,15 @@ function Pok() {
             <br><br>
 
             <u><b>Hosting & Cloud platforms</u></b><br>
+            <span class="badge bg-secondary">Coolify</span></h6>
+            <span class="badge bg-secondary">Dokploy</span></h6> 
             <span class="badge bg-secondary">Vercel</span></h6>
             <span class="badge bg-secondary">Netlify</span></h6>
             <span class="badge bg-secondary">Railway</span></h6>
             <span class="badge bg-secondary">Contabo</span></h6>
             <span class="badge bg-secondary">Digital Ocean</span></h6>
             <span class="badge bg-secondary">Linode</span></h6>
-            <span class="badge bg-secondary">Heroku</span></h6>            
+            <span class="badge bg-secondary">Heroku</span></h6>
             <br>
         </div>   
     </div>    
