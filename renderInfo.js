@@ -82,21 +82,21 @@ function Arbetslivserfarenhet() {
     <embed src="resources/we.png" height="5%" width="5%">
     <div class="flex-Arblf">
     <div>
-        <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare)</span></h3>
-        <u><br>Januari 2023-06-05 <b style="color:green;">(Nuvarande)</b><br></u>
+        <span class="badge bg-secondary">Infobric Equipment & Assets (Systemutvecklare)</span></h3>
+        <u><br>Januari 2023-06-05 - <b style="color:green;">(Nuvarande)</b><br></u>
         Systemutvecklare inom  React, Ext JS, TypeScript, MobX, Material UI, .NET, SQL, Google Maps & Automatiserade GUI tester med Selenium etc.
     </div>
     </div>
     <div class="flex-Arblf">
     <div>
-        <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare) - Praktik</span></h3>
+        <span class="badge bg-secondary">Infobric Equipment & Assets (Systemutvecklare) - Praktik</span></h3>
         <u><br>Januari 2023-02-20-2023-06-02 <b style="color:red;">(Avslutad)</b><br></u>
         Som del av mina studier gör jag min andra praktikperiod (LIA) hos Infrobric Fleet fram tills examen för mina studier. Arbetet innefattar React, TypeScript, MobX & .NET
     </div>
     </div>
     <div class="flex-Arblf">
     <div>
-        <span class="badge bg-secondary">Infobric Fleet (Systemutvecklare) - Praktik</span></h3>
+        <span class="badge bg-secondary">Infobric Equipment & Assets (Systemutvecklare) - Praktik</span></h3>
         <u><br>Januari 2022-11-07-2023-01-13 <b style="color:red;">(Avslutad)</b><br></u>
         Som en del av mina studier så har jag utfört min LIA (Lärande i arbete) - Praktik hos Infobric Fleet där jag jobbat som Systemutvecklare. 
         Mitt uppdrag var att konvertera en körjournalsmodul från Ext JS till React. Arbetet inkluderade TypeScript, React, SCSS, custom CSS, Tillståndshantering med MobX, hämta/skicka data via API/Controllers m.m.
