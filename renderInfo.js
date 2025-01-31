@@ -15,7 +15,7 @@ function Intro() {
     <p>Örebro</p>
     _________________________________________________________________________________________________<br>
     <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
-    <p>Grundare & Systemutvecklare @ <a href="https://Thalarion.com" style='text-decoration: none;'>Thalorion.com</a></p>
+    <p>Systemutvecklare @ <a href="https://Thalarion.com" style='text-decoration: none;'>Thalorion.com</a></p>
     <p>Musikproducent & Låtskrivare (retired) @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
     <div class="inline-block">
@@ -57,9 +57,9 @@ function Ommig() {
     </div>
     <div class="flex-Arblf">
     <div>
-    <span class="badge bg-secondary">Thalorion.com (Grundare & Systemutvecklare)</span></h3>
+    <span class="badge bg-secondary">Thalorion.com (Systemutvecklare)</span></h3>
         <u><br>2024-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-            Thalorion - Byggd med React (Mantine UI + Jotai), Go med Fiber som backend och PostgreSQL som databas
+            Thalorion - Byggd med React (React-bootstrap + Zustand), Go med Fiber som backend och PostgreSQL som databas
         <br><br>
     </div>
     </div>
