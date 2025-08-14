@@ -53,7 +53,10 @@ function Ommig() {
         Har sedan 2010 arbetat i IT-branschen inom diverse roller (first line, second line, dispatcher, IT-tekniker, systemförvaltare/analytiker och en del med utveckling).<br><br>
         <b><u>Öppen för erbjudanden</u></b><br>
         Öppen för förslag/erbjudanden inom närområdet: Örebro med omnejd (inkl hybrid) alternativt arbetsgivare som erbjuder distans.<br><br>
-        Om ni ser min profil som intressant och en tjänst som kan passa min profil så hör gärna av er till mig via kontaktvägarna ovan för eventuella erbjudanden.</div>
+        Om ni ser min profil som intressant och en tjänst som kan passa min profil så hör gärna av er till mig via kontaktvägarna ovan för eventuella erbjudanden.
+        <br><br>
+        OBS! Är ej intresserad av intjänandemodell/pottmodell (konsultbolag), fast lön ska det vara.
+        </div>
     </div>
     <div class="flex-Arblf">
     <div>
