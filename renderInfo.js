@@ -14,7 +14,7 @@ function Intro() {
     <h2>ROBIN KARLSSON</h2>
     <p>Örebro</p>
     _________________________________________________________________________________________________<br>
-    <p>Systemutvecklare @ <a href="https://infobric.se/fleet/" style='text-decoration: none;'>Infobric Fleet</a></p>
+    <p>Systemutvecklare @ <a href="https://infobric.se/equipment-assets/sv/plattformar/infobric-machines/" style='text-decoration: none;'>Infobric Machines</a></p>
     <p>Systemutvecklare @ <a href="https://Thalorion.com" style='text-decoration: none;'>Thalorion.com</a></p>
     <p>Musikproducent & Låtskrivare (retired) @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
