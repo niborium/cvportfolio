@@ -416,7 +416,8 @@ function Aka() {
     <a href="https://drive.google.com/file/d/1Ys-J7Zp5OhNIZ9goS9AETvSaEl1Tn_kF/view?usp=sharing" style="text-decoration: none;">Migrering av en Sencha Ext JS-baserad webbapplikation till React (Robin Karlsson)</a><br><br>
     <br>
     <u><b>Forskningsrapporter</b></u><br>
-    <a href="https://docs.google.com/document/d/19sxtPI4e5SXjcni4Cp0GjXO8zHDdSO4qv-iBzXcqwzw/edit?usp=sharing" style="text-decoration: none;">Lattice-based cryptography with C# and .NET - Written and researched by Robin Karlsson (2023-04-04)</a><br><br>
+    <a href="https://drive.google.com/file/d/15IKlrXIs9lpg3hpcQ4HvFJPtJPBaSnR_/view?usp=sharing" style="text-decoration: none;">White Paper: DNA-origami nanorobot för målstyrd cancerterapi (Robin Karlsson)</a><br><br>
+    <a href="https://drive.google.com/file/d/1M2fPrWXR0JjFrsvzbzBmSUBzFs7ekQ5u/view?usp=sharing" style="text-decoration: none;">White Paper: DNA Origami Nanorobot for Targeted Cancer Therapy (Robin Karlsson)</a><br><br>
     <u><b>Guider</b></u><br>
     <a href="https://docs.google.com/document/d/19iimuL5TQawNu2zDc-S5luyrxAg-AW_0faLs6G3H3qc/edit?usp=sharing" style="text-decoration: none;">Ollama - run local LLMS, configure nginx and letsencrypt and more - Written by Robin Karlsson (2025-05-05)</a><br><br>
     <a href="https://docs.google.com/document/d/1Hj2N29nYzp9QlwcRQoY8b1QILFrcs2mq/edit?usp=sharing&ouid=101989383758628553236&rtpof=true&sd=true" style="text-decoration: none;">React-handbook - (English react crash course) - Written by Robin Karlsson (2024-02-14)</a><br><br>
