@@ -62,7 +62,7 @@ function Ommig() {
     <div>
     <span class="badge bg-secondary">Thalorion.com (Systemutvecklare)</span></h3>
         <u><br>2025 feb-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-            Thalorion - Application analytics & monitoring - Byggd med React, Go med Fiber som backend, PostgreSQL som databas, Firebase Auth + Stripe som betalning (subscription)
+            Thalorion - Healthcare LLMs - Byggd med React, Go som backend, MariaDB som databas, Auth + Stripe som betalning (subscription)
         <br><br>
     </div>
     </div>
