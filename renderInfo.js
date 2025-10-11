@@ -58,14 +58,7 @@ function Ommig() {
         OBS! Är ej intresserad av intjänandemodell/pottmodell (konsultbolag), fast lön ska det vara.
         </div>
     </div>
-    <div class="flex-Arblf">
-    <div>
-    <span class="badge bg-secondary">Thalorion.com (Systemutvecklare)</span></h3>
-        <u><br>2025 feb-nu <b style="color:green;">(Fritid/Hobby)</b><br></u>
-            Thalorion - Healthcare LLMs - Byggd med React, Go som backend, MariaDB som databas, Auth + Stripe som betalning (subscription)
-        <br><br>
-    </div>
-    </div>
+
     <div class="flex-Arblf">
     <div>
     <span class="badge bg-secondary">Niborium (Musikproducent och låtskrivare)</span></h3>
@@ -83,6 +76,14 @@ function Ommig() {
 function Arbetslivserfarenhet() {
   ArbetslivserfarenhetContent.innerHTML = `
     <embed src="resources/we.png" height="5%" width="5%">
+        <div class="flex-Arblf">
+    <div>
+    <span class="badge bg-secondary">Thalorion.com (Grundare & Systemutvecklare)</span></h3>
+        <u><br>2025 feb-nu <b style="color:green;">(Nuvarande)</b><br></u>
+            Thalorion - Healthcare LLMs - Byggd med React, Go som backend, MariaDB som databas, Auth + Paddle som betalning (subscription). Byggd på egna dedikerade servrar, hostat med Appwrite (Self-hosted BaaS).
+        <br><br>
+    </div>
+    </div>
     <div class="flex-Arblf">
     <div>
         <span class="badge bg-secondary">Infobric Equipment & Assets (Systemutvecklare)</span></h3>
