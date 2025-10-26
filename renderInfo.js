@@ -19,7 +19,7 @@ function Intro() {
     <p>Musikproducent & Låtskrivare (retired) @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
     <div class="inline-block">
-    <a href="https://www.linkedin.com/in/robin-karlsson-81aa1b20b/" target=“_blank”>
+    <a href="https://www.linkedin.com/in/niborium" target=“_blank”>
     <img src="resources/linkedin.png" style="width:42px;height:42px;">
     </a>
     </div>
