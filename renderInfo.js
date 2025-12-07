@@ -78,38 +78,45 @@ function Arbetslivserfarenhet() {
     <embed src="resources/we.png" height="5%" width="5%">
         <div class="flex-Arblf">
     <div>
-    <span class="badge bg-secondary">Thalorion.com (Grundare & Systemutvecklare)</span></h3>
-        <u><br>2025 feb-nu <b style="color:green;">(Nuvarande)</b><br></u>
+    <span class="badge bg-secondary">Thalorion.com <br /> (Grundare & Systemutvecklare)</span></h3>
+        <u><br>2025 feb-nu <b style="color:green;"> (Aktiv)</b><br></u>
             Thalorion - Healthcare LLMs - Byggd med React, Go som backend, MariaDB som databas, Auth + Paddle som betalning (subscription). Byggd på egna dedikerade servrar, hostat med Appwrite (Self-hosted BaaS).
         <br><br>
     </div>
     </div>
     <div class="flex-Arblf">
     <div>
-        <span class="badge bg-secondary">Infobric Equipment & Assets (Systemutvecklare)</span></h3>
-        <u><br>Januari 2023-06-05 - <b style="color:green;">(Nuvarande)</b><br></u>
-        Systemutvecklare inom  React, Ext JS, TypeScript, MobX, Material UI, .NET, SQL, Google Maps & Automatiserade GUI tester med Selenium etc.
+        <span class="badge bg-secondary">Infobric Equipment & Assets <br /> (Infobric Machines - Systemutvecklare)</span></h3>
+        <u><br>2024-02-01 - nu<b style="color:green;"> (Aktiv)</b><br></u>
+        Systemutvecklare inom  React, TypeScript, MobX, Material UI, .NET, SQL, Google Maps & Automatiserade GUI tester med Playwright etc.
+    </div>
+    </div>
+        <div class="flex-Arblf">
+    <div>
+        <span class="badge bg-secondary">Infobric Equipment & Assets <br /> (Infobric Fleet - Systemutvecklare)</span></h3>
+        <u><br>2023-06-02-2024-01-29<br></u>
+        Arbetet inkluderade React, Ext JS, TypeScript, MobX, Material UI, .NET, SQL, Google Maps och automatiserade GUI-tester med Selenium etc.
     </div>
     </div>
     <div class="flex-Arblf">
     <div>
-        <span class="badge bg-secondary">Infobric Equipment & Assets (Systemutvecklare) - Praktik</span></h3>
-        <u><br>2023-02-20-2023-06-02 <b style="color:red;">(Avslutad)</b><br></u>
+        <span class="badge bg-secondary">Infobric Equipment & Assets <br/> (Infobric Fleet - Systemutvecklare) - Praktik</span></h3>
+        <u><br>2023-02-20-2023-06-02<br></u>
         Som del av mina studier gör jag min andra praktikperiod (LIA) hos Infrobric Fleet fram tills examen för mina studier. Arbetet innefattar React, TypeScript, MobX & .NET
     </div>
     </div>
     <div class="flex-Arblf">
     <div>
-        <span class="badge bg-secondary">Infobric Equipment & Assets (Systemutvecklare) - Praktik</span></h3>
-        <u><br>2022-11-07-2023-01-13 <b style="color:red;">(Avslutad)</b><br></u>
+        <span class="badge bg-secondary">Infobric Equipment & Assets <br /> (Infobric Fleet - Systemutvecklare) - Praktik</span></h3>
+        <u><br>2022-11-07-2023-01-13<br></u>
         Som en del av mina studier så har jag utfört min LIA (Lärande i arbete) - Praktik hos Infobric Fleet där jag jobbat som Systemutvecklare. 
         Mitt uppdrag var att konvertera en körjournalsmodul från Ext JS till React. Arbetet inkluderade TypeScript, React, SCSS, custom CSS, Tillståndshantering med MobX, hämta/skicka data via API/Controllers m.m.
     </div>
     </div>
     <div class="flex-Arblf">
         <div>
-            <span class="badge bg-secondary">Försvarsmakten (Systemanalytiker)</span></h3>
-            <u><br>Januari 2020-Maj 2023 <b style="color:red;">(Avslutad)</b><br></u>
+            <span class="badge bg-secondary">Försvarsmakten <br /> (Systemanalytiker)</span></h3>
+            <u><br>Januari 2020-Maj 2023<br></u>
             Applikationsansvarig & funktionsexpert för Försvarsmaktens intranät (SharePoint).<br><br>
             Ledande roll i kravarbete och utveckling vid förändringar samt leder och genomför sprintar (Ref. Agilt arbetssätt). Felsöka och identifiera lösningar för uppkomna incidenter.<br><br>
             Backlogghantering, Releaseplanering, Incidenthantering, Ansvarar för att alla delar I applikationerna överensstämmer med Försvarsmaktens regelverk.<br><br> 
@@ -118,8 +125,8 @@ function Arbetslivserfarenhet() {
     </div>
     <div class="flex-Arblf">
         <div>
-            <span class="badge bg-secondary" style='white-space: normal !important'>D Good Company LTD (Bolagsdirektör och utvecklare)</span></h3>
-            <u><br> Aug 2012-Juli 2021 <b style="color:red;">(Avslutad)</b><br></u>
+            <span class="badge bg-secondary" style='white-space: normal !important'>D Good Company LTD <br /> (Bolagsdirektör och utvecklare)</span></h3>
+            <u><br> Aug 2012-Juli 2021<br></u>
             D Good Company LTD var ett engelska LTD-företag baserat i London,
             71-75 Shelton Street, Covent Garden (Storbritannien).<br><br>
             D Good Company LTD var ett multinationellt bolag i Storbritannien som specialiserade sig på utveckling/förvaltning av IT-tjänster.
@@ -127,8 +134,8 @@ function Arbetslivserfarenhet() {
     </div>
     <div class="flex-Arblf">
         <div>
-            <span class="badge bg-secondary">Region Västmanland (Applikationskonsult)</span></h3>
-            <u><br> Mars 2017-Jan 2020 <b style="color:red;">(Avslutad)</b><br></u>
+            <span class="badge bg-secondary">Region Västmanland <br /> (Applikationskonsult)</span></h3>
+            <u><br> Mars 2017-Jan 2020<br></u>
             Arbetade i Office 365-gruppen på Region Västmanland.<br>
             Mitt fokusområde var SharePoint där jag jobbade med Business Logic lösningar (i form av
             InfoPath, automatiserade arbetsflöden och dynamiska formulär).<br><br>
@@ -140,13 +147,13 @@ function Arbetslivserfarenhet() {
     </div>
     <div class="flex-Arblf">
         <div style='width: 5em'>
-            <span class="badge bg-secondary" style='white-space: normal !important'>Mälardalens Högskola (Systemansvarig & Förvaltare för Office365/SharePoint)</span></h3>
-            <u><br> Aug 2016-Mars 2017 <b style="color:red;">(Avslutad)</b><br></u>
+            <span class="badge bg-secondary" style='white-space: normal !important'>Mälardalens Högskola <br /> (Systemansvarig & Förvaltare för Office365/SharePoint)</span></h3>
+            <u><br> Aug 2016-Mars 2017<br></u>
             Arbetade med Skype för Business, OneDrive för Business, SharePoint, Exchange, Yammer, Delve, Sway, Office Online, OneNote och Azure.<br><br>
             Arbetade med underhåll, support, dokumentation och utbildning.<br><br>
 
-            <span class="badge bg-secondary" style='white-space: normal !important'>Mälardalens Högskola (Supporttekniker/Onsite tekniker, First & Second line)</span></h3>
-            <u><br> Juni 2011–Aug 2016 <b style="color:red;">(Avslutad)</b><br></u>
+            <span class="badge bg-secondary" style='white-space: normal !important'>Mälardalens Högskola <br /> (Supporttekniker/Onsite tekniker, First & Second line)</span></h3>
+            <u><br> Juni 2011–Aug 2016<br></u>
             Arbetade som supporttekniker, första och andra linjen.<br>
             * AD Administration + NDS Administration.<br>
             * Fjärrstöd / Fjärrkontroll (DameWare).<br>
@@ -168,8 +175,8 @@ function Arbetslivserfarenhet() {
     </div>
     <div class="flex-Arblf">
     <div>
-        <span class="badge bg-secondary">Uniflex IT-Konsult (Tele2 Support)</span></h3>
-        <u><br> 2010-2011 <b style="color:red;">(Avslutad)</b><br></u>
+        <span class="badge bg-secondary">Uniflex IT-Konsult <br /> (Tele2 Support)</span></h3>
+        <u><br> 2010-2011<br></u>
         Jobbade på Transcom i Kungsör för Tele2’s tekniska support.
         Vi hade support på ADSL, Kabel, Stadsnät, Kabel och LAN förbindelser och felsökning kring detta. Felsökning av förbindelser, Zyxel routrar, bredbandstelefoni m.m.<br>
     </div>
