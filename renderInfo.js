@@ -16,7 +16,7 @@ function Intro() {
     _________________________________________________________________________________________________<br>
     <p>Systemutvecklare @ <a href="https://infobric.se/equipment-assets/sv/plattformar/infobric-machines/" style='text-decoration: none;'>Infobric Machines</a></p>
     <p>Systemutvecklare @ <a href="https://Thalorion.com" style='text-decoration: none;'>Thalorion.com</a></p>
-    <p>Musikproducent & Låtskrivare (retired) @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
+    <p>Musikproducent & Låtskrivare @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
     <div class="inline-block">
     <a href="https://www.linkedin.com/in/niborium" target=“_blank”>
@@ -62,7 +62,7 @@ function Ommig() {
     <div class="flex-Arblf">
     <div>
     <span class="badge bg-secondary">Niborium (Musikproducent och låtskrivare)</span></h3>
-        <u><br>2017-2024 (retired) <b>(Fritid/Hobby)</b><br></u>
+        <u><br>2017-nu <b>(Fritid/Hobby)</b><br></u>
         Musikproducent och låtskrivare sedan 2017 fram till 2024, gjorde egen musik under artistnamnen Robin Whispers, Swedish Melodies och Niborium (Nuvarande).<br><br> 
         Har lyckats nått miljontals streams och följare runtom hela världen. Producerar house, electronic, funk, psytrance, trance, dubstep, pop och hiphop/rap.
         Jag är även ghostproducer och producerar musik åt andra artister.<br><br>
