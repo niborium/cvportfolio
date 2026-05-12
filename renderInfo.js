@@ -14,7 +14,7 @@ function Intro() {
     <h2>ROBIN KARLSSON</h2>
     <p>Örebro</p>
     _________________________________________________________________________________________________<br>
-    <p>Systemutvecklare @ <a href="https://infobric.se/equipment-assets/sv/plattformar/infobric-machines/" style='text-decoration: none;'>Infobric Machines</a></p>
+    <p>Team lead & Systemutvecklare @ <a href="https://infobric.se/equipment-assets/sv/plattformar/infobric-machines/" style='text-decoration: none;'>Infobric Machines</a></p>
     <p>Systemutvecklare @ <a href="https://Thalorion.com" style='text-decoration: none;'>Thalorion.com</a></p>
     <p>Musikproducent & Låtskrivare @ <a href="https://soundcloud.com/niborium" style='text-decoration: none;'>Niborium</a></p>
     </div><br>
@@ -86,8 +86,15 @@ function Arbetslivserfarenhet() {
     </div>
     <div class="flex-Arblf">
     <div>
+        <span class="badge bg-secondary">Infobric Equipment & Assets <br /> (Infobric Machines - Team lead &Systemutvecklare)</span></h3>
+        <u><br>2026-05-12 - nu<b style="color:green;"> (Aktiv)</b><br></u>
+        Team lead & Systemutvecklare för Infobric Machines arbetar med React, TypeScript, MobX, Material UI, .NET, SQL, Google Maps & Automatiserade GUI tester med Playwright etc.
+    </div>
+    </div>
+    <div class="flex-Arblf">
+    <div>
         <span class="badge bg-secondary">Infobric Equipment & Assets <br /> (Infobric Machines - Systemutvecklare)</span></h3>
-        <u><br>2024-02-01 - nu<b style="color:green;"> (Aktiv)</b><br></u>
+        <u><br>2024-02-01 - 2026-05-11<br></u>
         Systemutvecklare inom  React, TypeScript, MobX, Material UI, .NET, SQL, Google Maps & Automatiserade GUI tester med Playwright etc.
     </div>
     </div>
